@@ -1,6 +1,7 @@
 ---
 project: White-Box-Dungeon_Adventures
 title: Fundamentals
+chapter: 1
 type: Rules
 tags: [OSR, Fundamentals, WB-Dungeon, Referee]
 author: James M. Spahn
