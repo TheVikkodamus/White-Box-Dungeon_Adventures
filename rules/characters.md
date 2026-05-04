@@ -16,17 +16,15 @@ All players except the Referee take the following steps to create a player chara
 
 ## Step One: Determine Attributes
 Six attributes determine the foundations of every player character:
-● **Strength:** The ability to apply physical force.
-● Intelligence: Logic and reasoning capacity.
-● Wisdom: Mental resilience and powers of observation.
-● Dexterity: Agility, balance, and hand-to-eye coordination.
-● Constitution: Physical resilience and toughness.
-● Charisma: Natural charm and gravitas.
+● **Strength:** The ability to apply *physical force*.
+● **Intelligence:** *Logic and reasoning* capacity.
+● **Wisdom:** *Mental resilience and powers of observation*.
+● **Dexterity:** *Agility, balance, and hand-to-eye coordination*.
+● **Constitution:** *Physical resilience and toughness*.
+● **Charisma:** *Natural charm and gravitas*.
 
-Roll 3d6 to determine each attribute in the order noted above. 
-If an attribute is 15 or higher, note a +1 modifier next to it. If an attribute is 6 or
-lower, note a -1 modifier next to it. Each attribute modifies one or more
-specific aspects of play.
+Roll 3d6 to determine each attribute in the order noted above.  If an attribute is **15 or higher**, note a +1 modifier next to it. If an attribute is **6 or
+lower**, note a -1 modifier next to it. Each attribute modifies one or more specific aspects of play.
 
 ● Strength: Modifies a PC’s melee weapon damage rolls.
 ● Intelligence: Modifies a PC’s number of fluent languages.
