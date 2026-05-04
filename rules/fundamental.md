@@ -1,7 +1,12 @@
 ---
-title: Fundamental
-type: Information
+project: White-Box-Dungeon_Adventures
+title: Fundamentals
+type: Rules
+tags: [OSR, Fundamentals, WB-Dungeon, Referee]
+author: James M. Spahn
+license: CC BY-SA 4.0
 status: First Draft
+Last_modified: 2026-05-04
 ---
 
 ## Fundamental Concepts
