@@ -19,7 +19,7 @@ Except for the material designated as Product Identity above, all text and conte
 
 - **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  
 
-For the full legal text of this license, visit: [https://creativecommons.org/licenses/by-sa/4.0/(https://creativecommons.org/licenses/by-sa/4.0/)
+For the full legal text of this license, visit: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Contact Information
 
