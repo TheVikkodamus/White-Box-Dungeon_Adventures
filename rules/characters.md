@@ -35,4 +35,4 @@ lower**, note a -1 modifier next to it. Each attribute modifies one or more spec
 
 
 ---
-© 2026 **Barrel Rider Games** | [License Details](./LICENSE.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+© 2026 **Barrel Rider Games** | [License Details](./license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
