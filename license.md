@@ -1,5 +1,6 @@
 # LICENSE
 ## Trademarks and Identity
+
 Barrel Rider Games logos and brand names are trademarks of Barrel Rider Games. All rights reserved.
 
 The following elements are hereby identified as Product Identity: All trademarks, proper names (characters, deities, etc.), symbols, logos, and trade dress. These elements are not covered by the Creative Commons license and may not be used without express written permission from Barrel Rider Games.
@@ -23,5 +24,4 @@ For the full legal text of this license, visit: [https://creativecommons.org/lic
 
 ### Contact Information
 
-Barrel Rider Games
-Nanticoke, MD 21840
+Barrel Rider Games Nanticoke, MD 21840
