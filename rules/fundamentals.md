@@ -34,3 +34,6 @@ ask questions, investigate, and explore their environment. They should
 not rely on their character sheet and game rules, but on their own intellect
 to solve problems. The Referee will, in turn, adjudicate the results of
 observations and actions in an unbiased manner.
+
+---
+© 2026 **Barrel Rider Games** | [License Details](./LICENSE.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
