@@ -1,2 +1,20 @@
 # White-Box-Dungeon_Adventures
-WB: Dungeon Adventure is a truncated version of the White Box Cyclopedia rules set designed to create a more streamlined experience for players that focuses on the dungeon. It serves as both a compliment to White Box Cyclopedia and a stand-alone product.
+**WB: Dungeon Adventure** is a truncated version of the White Box Cyclopedia rules set designed to create a more streamlined experience for players that focuses on the dungeon. It serves as both a compliment to White Box Cyclopedia and a stand-alone product.
+
+## Credit:
+**Author:** [James M. Spahn](https://substack.com/@jamesmspahn)
+**Publishing:** [Barrel Rider Games](https://www.drivethrurpg.com/en/publisher/4417/barrel-rider-games)
+
+**White Box: Dungeon Adventures, White Box Cyclopedia,, and the Barrel
+Rider Games logo are trademarks of Barrel Rider Games**. 
+
+©2026 by Barrel Rider Games. All rights reserved. Reproduction without the written
+permission of the publisher is expressly forbidden, except for the
+purposes of reviews, and for the blank character sheets, which may be
+reproduced for personal use only.
+
+Barrel Rider Games logos are trademarks of Barrel Rider Games.
+All text not otherwise specified is released under the Creative Commons
+CC BY-SA 4.0 License. https://creativecommons.org/licenses/by-sa/4.0/.
+Barrel Rider Games, Nanticoke MD 21840
+
