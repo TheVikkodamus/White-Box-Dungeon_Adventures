@@ -5,16 +5,6 @@
 **Author:** [James M. Spahn](https://substack.com/@jamesmspahn)
 **Publishing:** [Barrel Rider Games](https://www.drivethrurpg.com/en/publisher/4417/barrel-rider-games)
 
-**White Box: Dungeon Adventures, White Box Cyclopedia,, and the Barrel
-Rider Games logo are trademarks of Barrel Rider Games**. 
+**White Box: Dungeon Adventures, White Box Cyclopedia, and the Barrel Rider Games logo are trademarks of Barrel Rider Games**. 
 
-©2026 by Barrel Rider Games. All rights reserved. Reproduction without the written
-permission of the publisher is expressly forbidden, except for the
-purposes of reviews, and for the blank character sheets, which may be
-reproduced for personal use only.
-
-Barrel Rider Games logos are trademarks of Barrel Rider Games.
-All text not otherwise specified is released under the Creative Commons
-CC BY-SA 4.0 License. https://creativecommons.org/licenses/by-sa/4.0/.
-Barrel Rider Games, Nanticoke MD 21840
-
+Copyright © 2026 Barrel Rider Games. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
