@@ -7,4 +7,5 @@
 
 **White Box: Dungeon Adventures, White Box Cyclopedia, and the Barrel Rider Games logo are trademarks of Barrel Rider Games**. 
 
-Copyright © 2026 Barrel Rider Games. This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+---
+© 2026 **Barrel Rider Games** | [License Details](./LICENSE.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
