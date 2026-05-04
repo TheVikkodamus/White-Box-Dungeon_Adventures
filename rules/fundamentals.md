@@ -9,6 +9,8 @@ status: First Draft
 Last_modified: 2026-05-04
 ---
 
+# Chapter 1: Fundamentals
+
 ## Fundamental Concepts
 This game assumes familiarity with fundamental vintage roleplaying
 game concepts. Readers are assumed to understand what an RPG is,
