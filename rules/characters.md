@@ -33,9 +33,16 @@ lower**, note a -1 modifier next to it. Each attribute modifies one or more spec
 - **Constitution**: Modifies a PC’s hit point total at each level.
 - **Charisma**: Modifies the number and Morale Checks of hirelings.
 
-  ## Step Two: Select a Heritage
-  Four heritages are available: Dwarf, Elf, Halfling, and Human.
-  
+## Step Two: Select a Heritage
+Four heritages are available: Dwarf, Elf, Halfling, and Human.
+
+### Dwarf
+Short, stout, subterranean miners known for their tenacity, combat prowess, and thick beards.
+- **Class Restrictions**: All Dwarves are Fighters.
+- **Giant-Foe**: Reduce damage from giants, ogres, and trolls by one-half.
+- **Magic Resistant**: +4 to all saving throws to resist spells and magic.
+- **Underground Sense**: Detect underground traps, sloping passages, and poor construction on **1-2 on 1d6** when within 10 ft., or **1-3** when actively searching for such things.
+- **Languages**: Fluent in Common, Dwarf, Goblin and Orc .
 
 
 ---
