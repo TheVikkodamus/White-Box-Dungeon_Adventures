@@ -40,7 +40,7 @@ rounds or cower if unable to flee. If the number listed is “D,” the undead c
 
 ### Table 2-2: Banish Undead
 |Level|1 HD|2 HD|3 HD|4 HD|5 HD|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|10|13|15|17|N/A|
 |2|7|10|13|15|17|
 |3|D|4|7|10|13|
