@@ -26,18 +26,21 @@ Holy crusaders who heal and inspire in battle.
 
 ### Cleric Advancemnet
 |Level|XP|HD|AB|SV|
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6|+0|15|
 |2|1500|2d6|+0|14|
 |3|3000|3d6|+0|13|
 |4|6000|3d6+1|+1|12|
 |5|12000|4d6+1|+1|11|
 
-
-- Weapons & Armor: Clerics can use clubs, maces, quarterstaves, slings and warhammers in battle. They can wear any armor and use shields.
-- Banish Undead: Undead can be forced to flee or be destroyed by a Cleric. The Cleric rolls 3d6 and consults Table 2-2: Banish Undead.
+- **Weapons & Armor**: Clerics can use clubs, maces, quarterstaves, slings and warhammers in battle. They can wear any armor and use shields.
+- **Banish Undead**: Undead can be forced to flee or be destroyed by a Cleric. The Cleric rolls 3d6 and consults Table 2-2: Banish Undead.
 If the result is equal to or greater than the number shown on the table, all undead creatures that can see the Cleric flee for 3d6
 rounds or cower if unable to flee. If the number listed is “D,” the undead creatures are destroyed.
+
+### Banish Undead
+|Level|1 HD|2 HD|3 HD|4 HD|5 HD|
+|---|---|---|---|---|---|
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
