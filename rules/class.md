@@ -51,7 +51,11 @@ rounds or cower if unable to flee. If the number listed is “D,” the undead c
 
 |Level|1st-Level Spells|2nd level Spells|3rd Level Spells|
 |:---:|:---:|:---:|:---:|
-
+|1|0|0|0|
+|2|1|0|0|
+|3|2|0|0|
+|4|2|1|0|
+|5|2|2|1|
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
