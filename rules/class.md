@@ -46,5 +46,12 @@ rounds or cower if unable to flee. If the number listed is “D,” the undead c
 |3|D|4|7|10|13|
 |4|D|D|4|7|10|
 
+- **Holy Symbol**: All Clerics begin play with a holy symbol for free.
+- **Spellcasting**: Once a day Clerics pray and select any spells from the Cleric Spell List available to them based on the limits shown on Table 2-3: Cleric Spell Advancement.
+
+|Level|1st-Level Spells|2nd level Spells|3rd Level Spells|
+|:---:|:---:|:---:|:---:|
+
+
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
