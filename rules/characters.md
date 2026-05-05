@@ -25,12 +25,14 @@ Six attributes determine the foundations of every player character:
 
 Roll 3d6 to determine each attribute in the order noted above.  
 
-If an attribute is **15 or higher**, note a +1 modifier next to it. If an attribute is **6 or lower**, note a -1 modifier next to it. Each attribute modifies one or more specific aspects of play.
+## Score and Modifiers
 
 |SCORE|MODIFIER|
 |---|---|
 |15+|+1 |
 |6- |-1 |
+
+Each attribute modifies one or more specific aspects of play.
 
 - **Strength**: Modifies a PC’s melee weapon damage rolls.
 - **Intelligence**: Modifies a PC’s number of fluent languages.
