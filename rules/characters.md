@@ -28,7 +28,7 @@ Roll `3d6` to determine each attribute in the order noted above.
 ### Score and Modifiers
 
 |SCORE|MODIFIER|
-|---|---|
+|:---:|:---:|
 |15+|+1 |
 |6- |-1 |
 
