@@ -26,12 +26,16 @@ Six attributes determine the foundations of every player character:
 Roll 3d6 to determine each attribute in the order noted above.  If an attribute is **15 or higher**, note a +1 modifier next to it. If an attribute is **6 or
 lower**, note a -1 modifier next to it. Each attribute modifies one or more specific aspects of play.
 
-- Strength: Modifies a PC’s melee weapon damage rolls.
-- Intelligence: Modifies a PC’s number of fluent languages.
-- Wisdom: Modifies a PC’s saving throw to resist magic.
-- Dexterity: Modifies a PC’s ranged attack rolls.
-- Constitution: Modifies a PC’s hit point total at each level.
-- Charisma: Modifies the number and Morale Checks of hirelings.
+- **Strength**: Modifies a PC’s melee weapon damage rolls.
+- **Intelligence**: Modifies a PC’s number of fluent languages.
+- **Wisdom**: Modifies a PC’s saving throw to resist magic.
+- **Dexterity**: Modifies a PC’s ranged attack rolls.
+- **Constitution**: Modifies a PC’s hit point total at each level.
+- **Charisma**: Modifies the number and Morale Checks of hirelings.
+
+  ## Step Two: Select a Heritage
+  Four heritages are available: Dwarf, Elf, Halfling, and Human.
+  
 
 
 ---
