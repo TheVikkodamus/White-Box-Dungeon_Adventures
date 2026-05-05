@@ -57,5 +57,8 @@ rounds or cower if unable to flee. If the number listed is “D,” the undead c
 |4|2|1|0|
 |5|2|2|1|
 
+- **Saving Throw**: +2 vs. poison and paralysis effects.
+- **XP Bonus**: +5% on all Experience Points earned if Wisdom is 15+.
+
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
