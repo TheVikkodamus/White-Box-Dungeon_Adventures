@@ -44,6 +44,15 @@ Short, stout, subterranean miners known for their tenacity, combat prowess, and 
 - **Underground Sense**: Detect underground traps, sloping passages, and poor construction on **1-2 on 1d6** when within 10 ft., or **1-3** when actively searching for such things.
 - **Languages**: Fluent in Common, Dwarf, Goblin and Orc .
 
+### Elf
+Beautiful and strange fey with pointed ears and fine features. They have an affinity for nature and magic.
+- **Class Restriction**: When an Elf wakes up each day the player must choose whether they are a Fighter or a Magic-User that day. XP
+earned that day is only applied to the chosen class. The Elf has all the restrictions and abilities of their daily chosen class and must
+re-roll their maximum Hit Points each day. They may only advance to 4th level as a Fighter.
+- **Ancestral Hatred**: +1 to attack rolls and damage rolls vs. goblins, orcs, werewolves, and vampires.
+- **Armored Magic-User**: Magic-Users have no armor restriction, but cannot use shields.
+- **Keen Senses**: Detect secret doors on 1-2 on 1d6 when within 10ft., or 1-3 when actively searching for them.
+- **Languages**: Fluent in Common, Elvish, Gnoll, Goblin, and Orc.
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
