@@ -26,6 +26,11 @@ Six attributes determine the foundations of every player character:
 Roll 3d6 to determine each attribute in the order noted above.  If an attribute is **15 or higher**, note a +1 modifier next to it. If an attribute is **6 or
 lower**, note a -1 modifier next to it. Each attribute modifies one or more specific aspects of play.
 
+|SCORE|MODIFIER|
+|---|---|
+|15+|+1 |
+|6- |-1 |
+
 - **Strength**: Modifies a PC’s melee weapon damage rolls.
 - **Intelligence**: Modifies a PC’s number of fluent languages.
 - **Wisdom**: Modifies a PC’s saving throw to resist magic.
@@ -53,6 +58,8 @@ re-roll their maximum Hit Points each day. They may only advance to 4th level as
 - **Armored Magic-User**: Magic-Users have no armor restriction, but cannot use shields.
 - **Keen Senses**: Detect secret doors on 1-2 on 1d6 when within 10ft., or 1-3 when actively searching for them.
 - **Languages**: Fluent in Common, Elvish, Gnoll, Goblin, and Orc.
+
+
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
