@@ -73,8 +73,7 @@ Warriors who are experts at arms and armor.
 |4|6000|3d6+1|+3|11|
 |5|12000|4d6+1|+1|10|
 
-## Weapons & Armor: Fighters can
-use any weapons, armor, and shields.
+- **Weapons & Armor**: Fighters can use any weapons, armor, and shields.
 - **Fell Lesser Foes**: Against foes with 1 Hit Die, Fighters get 1 additional attack per level each combat round. This means a 4th-level Fighter fighting 3 goblins could make a total of 4 attacks per round.
 - **Strength of Arms**: Fighters add their Strength modifier to melee attack rolls.
 - **Saving Throw**: +2 vs. poison and instant death effects.
