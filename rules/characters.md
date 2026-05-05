@@ -11,7 +11,6 @@ last_modified: 2026-05-04
 ---
 
 # Chapter 2: Characters
-
 All players except the Referee take the following steps to create a player character (PC):
 
 ## Step One: Determine Attributes
@@ -61,6 +60,17 @@ re-roll their maximum Hit Points each day. They may only advance to 4th level as
 - **Armored Magic-User**: Magic-Users have no armor restriction, but cannot use shields.
 - **Keen Senses**: Detect secret doors on 1-2 on 1d6 when within 10ft., or 1-3 when actively searching for them.
 - **Languages**: Fluent in Common, Elvish, Gnoll, Goblin, and Orc.
+
+### Halfling
+A child-like in size and demeanor who prefers comfort over adventure.
+They are known for being clever, stealthy, and are often underestimated.
+- **Class Restrictions**: All Halflings are Fighters only able to reach 4th level.
+- **Weapon Restriction**: Halflings can’t use battle axes, long bows or great swords.
+- **All But Unseen**: As long as they are still and concealed, Halflings are invisible.
+- **Magic Resistant**: +4 to all saving throws to resist spells and magic effects.
+- **Sharp Aim**: +2 on all ranged attack rolls.
+- **Underfoot**: Reduce all damage from giants, ogres, and trolls by one-half.
+- **Languages**: Fluent in Common and Halfling.
 
 
 
