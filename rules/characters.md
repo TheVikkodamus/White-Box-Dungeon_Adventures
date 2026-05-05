@@ -29,6 +29,7 @@ Roll `3d6` to determine each attribute in the order noted above.
 |SCORE|MODIFIER|
 |:---:|:---:|
 |15+|+1 |
+|7 to 14|0|
 |6- |-1 |
 
 Each attribute modifies one or more specific aspects of play.
