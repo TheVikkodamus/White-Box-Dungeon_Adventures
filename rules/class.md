@@ -24,7 +24,7 @@ over this number, the threat is mitigated or avoided entirely.
 ## Cleric
 Holy crusaders who heal and inspire in battle.
 
-### Cleric Advancemnet
+### Table 2-1: Cleric Advancemnet
 |Level|XP|HD|AB|SV|
 |:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6|+0|15|
@@ -38,9 +38,13 @@ Holy crusaders who heal and inspire in battle.
 If the result is equal to or greater than the number shown on the table, all undead creatures that can see the Cleric flee for 3d6
 rounds or cower if unable to flee. If the number listed is “D,” the undead creatures are destroyed.
 
-### Banish Undead
+### Table 2-2: Banish Undead
 |Level|1 HD|2 HD|3 HD|4 HD|5 HD|
 |---|---|---|---|---|---|
+|1|10|13|15|17|N/A|
+|2|7|10|13|15|17|
+|3|D|4|7|10|13|
+|4|D|D|4|7|10|
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
