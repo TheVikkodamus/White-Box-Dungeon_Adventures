@@ -65,6 +65,19 @@ rounds or cower if unable to flee. If the number listed is “D,” the undead c
 Warriors who are experts at arms and armor.
 
 ### Table 2-4: Fighter Advancement
+|Level|XP|HD|AB|SV|
+|:---:|:---:|:---:|:---:|:---:|
+|1|0|1d6+1|+1|14|
+|2|2000|2d6+1|+1|13|
+|3|3000|3d6|+2|12|
+|4|6000|3d6+1|+3|11|
+|5|12000|4d6+1|+1|10|
 
+## Weapons & Armor: Fighters can
+use any weapons, armor, and shields.
+- **Fell Lesser Foes**: Against foes with 1 Hit Die, Fighters get 1 additional attack per level each combat round. This means a 4th-level Fighter fighting 3 goblins could make a total of 4 attacks per round.
+- **Strength of Arms**: Fighters add their Strength modifier to melee attack rolls.
+- **Saving Throw**: +2 vs. poison and instant death effects.
+- **XP Bonus**: +5% on all Experience Points earned if Strength is 15+.
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
