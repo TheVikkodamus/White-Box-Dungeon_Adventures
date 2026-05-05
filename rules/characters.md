@@ -23,9 +23,9 @@ Six attributes determine the foundations of every player character:
 - **Constitution:** *Physical resilience and toughness*.
 - **Charisma:** *Natural charm and gravitas*.
 
-Roll 3d6 to determine each attribute in the order noted above.  
+Roll `3d6` to determine each attribute in the order noted above.  
 
-## Score and Modifiers
+### Score and Modifiers
 
 |SCORE|MODIFIER|
 |---|---|
