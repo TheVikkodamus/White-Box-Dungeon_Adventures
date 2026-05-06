@@ -5,6 +5,7 @@ title: Characters
 type: Rules
 tags: [OSR, Characters, WB-Dungeon, Attributes, Playable Characters]
 author: James M. Spahn
+git project by: Victor Gregory Matos
 license: CC BY-SA 4.0
 status: First Draft
 last_modified: 2026-05-04
