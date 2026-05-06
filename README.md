@@ -5,7 +5,7 @@ title: Read Me
 type: Github root file
 tags: [OSR, Characters, Read me]
 author: James M. Spahn
-git project by: Victor Gregory Matos
+git_project_by: Victor Gregory Matos
 license: CC BY-SA 4.0
 status: First Draft
 last_modified: 2026-05-04
