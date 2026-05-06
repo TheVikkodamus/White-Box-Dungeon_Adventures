@@ -3,7 +3,7 @@ project: White-Box-Dungeon_Adventures
 chapter: N/A
 title: Read Me
 type: Github root file
-tags: [OSR, Characters, Read me]
+tags: [OSR, Github, Read me, Credit, Publishing]
 author: James M. Spahn
 git_project_by: Victor Gregory Matos
 license: CC BY-SA 4.0
