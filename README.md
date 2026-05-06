@@ -1,6 +1,6 @@
 ---
 project: White-Box-Dungeon_Adventures
-chapter: 
+chapter: N/A
 title: Read Me
 type: Github root file
 tags: [OSR, Characters, Read me]
