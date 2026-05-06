@@ -21,5 +21,7 @@ last_modified: 2026-05-04
 
 **White Box: Dungeon Adventure and the Barrel Rider Games logo are trademarks of Barrel Rider Games**. 
 
+Do you want to support the author? Get a pdf or physical copy of this game? Follow this [link]() to support [Barrel Rider Game]().  
+
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
