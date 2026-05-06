@@ -5,6 +5,7 @@ title: Fundamentals
 type: Rules
 tags: [OSR, Fundamentals, WB-Dungeon, Referee]
 author: James M. Spahn
+git project: Victor Gregory Matos
 license: CC BY-SA 4.0
 status: First Draft
 last_modified: 2026-05-04
