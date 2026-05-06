@@ -3,7 +3,7 @@ project: White-Box-Dungeon_Adventures
 chapter: 2
 title: Select a Character
 type: Rules
-tags: [OSR, Characters, WB-Dungeon, Attributes, Playable Characters, Class]
+tags: [OSR, Characters, WB-Dungeon, Attributes, Playable Characters, Class, Cleric, Fighter, Magic-User]
 author: James M. Spahn
 git project by: Victor Gregory Matos
 license: CC BY-SA 4.0
