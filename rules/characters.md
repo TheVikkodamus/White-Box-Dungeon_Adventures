@@ -1,5 +1,5 @@
 ---
-project: White-Box: Dungeon_Adventures
+project: White-Box Dungeon_Adventures
 chapter: 2
 title: Characters
 type: Rules
