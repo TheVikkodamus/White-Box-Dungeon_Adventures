@@ -21,4 +21,9 @@ Each PC selects one set of arms and armor based on their class.
 |**Fighter**| 2 melee weapons of choice, 1 ranged weapon of choice (w/ 20 ammo), chainmail|
 |**Magic-User**| Dagger, quarterstaff|
 
-##
+## 2-7 Weapons Table 
+
+|Weapon|Damage|Range|Cost|
+|:---|---|---|---|
+
+
