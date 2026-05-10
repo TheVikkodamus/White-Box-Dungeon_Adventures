@@ -34,7 +34,10 @@ Holy crusaders who heal and inspire in battle.
 |4|6000|3d6+1|+1|12|
 |5|12000|4d6+1|+1|11|
 
-- **Weapons & Armor**: Clerics can use clubs, maces, quarterstaves, slings and warhammers in battle. They can wear any armor and use shields.
+### Weapons & Armor 
+
+Clerics can use clubs, maces, quarterstaves, slings and warhammers in battle. They can wear any armor and use shields.
+
 - **Banish Undead**: Undead can be forced to flee or be destroyed by a Cleric. The Cleric rolls 3d6 and consults Table 2-2: Banish Undead.
 If the result is equal to or greater than the number shown on the table, all undead creatures that can see the Cleric flee for 3d6
 rounds or cower if unable to flee. If the number listed is “D,” the undead creatures are destroyed.
@@ -74,7 +77,10 @@ Warriors who are experts at arms and armor.
 |4|6000|4d6+1|+3|11|
 |5|12000|5d6+1|+3|10|
 
-- **Weapons & Armor**: Fighters can use any weapons, armor, and shields.
+### Weapons & Armor
+
+Fighters can use any weapons, armor, and shields.
+
 - **Fell Lesser Foes**: Against foes with 1 Hit Die, Fighters get 1 additional attack per level each combat round. This means a 4th-level Fighter fighting 3 goblins could make a total of 4 attacks per round.
 - **Strength of Arms**: Fighters add their Strength modifier to melee attack rolls.
 - **Saving Throw**: +2 vs. poison and instant death effects.
