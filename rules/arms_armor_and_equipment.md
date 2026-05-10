@@ -55,11 +55,12 @@ Each PC selects one set of arms and armor based on their class.
 
 Each PC then selects **one gear pack** from the options below.
 
-- Pack #1: Backpack, bedroll, hand mirror, lantern, oil (3 flasks), rope (50 ft.), small sack, rations (1 week), tent, waterskin, wooden stakes (12, includes mallet), `3d6` gold pieces.
-- Pack #2: Backpack, bedroll, crowbar, grappling hook, rations (1 week), rucksack, rope (50 ft.), torches (6), tinder box, waterskin, wooden pole (10 ft.), `3d6` gold pieces.
-- Pack #3: Backpack, bedroll, hammer, iron spikes (12), mule, rations (1 week), rope (50 ft.), saddle bags, torches (6), tinder box, waterskin, `3d6` gold pieces.
+- **Pack #1**: Backpack, bedroll, hand mirror, lantern, oil (3 flasks), rope (50 ft.), small sack, rations (1 week), tent, waterskin, wooden stakes (12, includes mallet), `3d6` gold pieces.
+- **Pack #2**: Backpack, bedroll, crowbar, grappling hook, rations (1 week), rucksack, rope (50 ft.), torches (6), tinder box, waterskin, wooden pole (10 ft.), `3d6` gold pieces.
+- **Pack #3**: Backpack, bedroll, hammer, iron spikes (12), mule, rations (1 week), rope (50 ft.), saddle bags, torches (6), tinder box, waterskin, `3d6` gold pieces.
 
-> Additional equipment may be purchased at character creation or whenever the PCs depart the dungeon and return to town. The equipment listed below is not complete, but provides the Referee enough examples to make reasonable estimates as to the cost of similar items.
+
+Additional equipment may be purchased at character creation or whenever the PCs depart the dungeon and return to town. The equipment listed below is not complete, but provides the Referee enough examples to make reasonable estimates as to the cost of similar items.
 
 ### Encumbrance
 
@@ -67,3 +68,22 @@ While no hard-and-fast rules for a PC’s carrying capacity are provided, Refere
 reasonable amount of equipment and plunder. A PC can carry 100 lbs of equipment, +10 lbs per point of Strength over 10. The exact weight of an
 item should be determined by the Referee. A good rule of thumb is that most weapons weigh 5 lbs, two-handed weapons weigh 10 lbs, and armor
 weighs 10 lbs per +1 AC bonus provided. Ten coins weigh about a pound.
+
+### Equipment
+
+|Item|Cost|
+|:---|:---:|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
