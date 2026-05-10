@@ -10,3 +10,12 @@ license: CC BY-SA 4.0
 status: First Draft
 last_modified: 2026-05-10
 ---
+
+# Arms, Armor, and Equipment
+
+Each PC selects one set of arms and armor based on their class.
+|Class| Starting Armor Equipment, and Weapons|
+|:---|:---:|
+|Cleric| Chainmail, shield, sling, stones (20), war hammer or mace|
+|Fighter| 2 melee weapons of choice, 1 ranged weapon of choice (w/ 20 ammo), chainmail|
+|Magic-User| Dagger, quarterstaff|
