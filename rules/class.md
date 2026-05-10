@@ -70,7 +70,7 @@ Warriors who are experts at arms and armor.
 |:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6+1|+1|14|
 |2|2000|2d6+1|+1|13|
-|3|3000|3d6|+2|12|
+|3|3000|3d6+1|+2|12|
 |4|6000|4d6+1|+3|11|
 |5|12000|5d6+1|+3|10|
 
@@ -79,5 +79,27 @@ Warriors who are experts at arms and armor.
 - **Strength of Arms**: Fighters add their Strength modifier to melee attack rolls.
 - **Saving Throw**: +2 vs. poison and instant death effects.
 - **XP Bonus**: +5% on all Experience Points earned if Strength is 15+.
+
+  ## Magic-User
+
+Arcane wizards and warlocks who wield powerful magic spells.
+
+<!---Add table 2-5 advancement Here-->
+
+### Weapons & Armor:
+
+Magic-Users can only use daggers and quarterstaves in
+combat. They cannot wear armor or use shields.
+
+- **Spell Scrolls**: Scrolls scribed with a Magic-User spell can be expended to either copy them into Magic-User’s spell book or cast them directly.
+- **Spellbook**: All Magic-Users begin play with a spellbook for free. It contains ***Detect Magic, Read Magic, and one random 1st-level spell***.
+- **Spellcasting**: Magic-Users read from their spellbook once each day. They can prepare any spell written in their spellbook, including preparing the same spell more than once, based on the limits shown on **Table 2-6: Magic-User Spell Advancement**.
+
+<!-- Add Table 2-6 Magic-User Spell Advancement-->
+
+- **Saving Throw**: +2 vs. spells and magic items.
+- **XP Bonus**: +5% on all Experience Points earned if Intelligence is 15+. 
+
+  
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
