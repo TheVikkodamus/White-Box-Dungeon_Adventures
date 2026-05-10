@@ -101,6 +101,8 @@ combat. They cannot wear armor or use shields.
 - **Spellbook**: All Magic-Users begin play with a spellbook for free. It contains ***Detect Magic, Read Magic, and one random 1st-level spell***.
 - **Spellcasting**: Magic-Users read from their spellbook once each day. They can prepare any spell written in their spellbook, including preparing the same spell more than once, based on the limits shown on **Table 2-6: Magic-User Spell Advancement**.
 
+> Go to [Arms, Armor, and Equipment](/rules/arms, armor, and equipment.md) to equip PC. 
+
 <!-- Add Table 2-6 Magic-User Spell Advancement-->
 
 - **Saving Throw**: +2 vs. spells and magic items.
