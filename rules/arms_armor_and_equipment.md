@@ -47,9 +47,11 @@ Each PC selects one set of arms and armor based on their class.
 |Shield| +1| 10 gp|
 |Unarmored| +0| Free|
 
-- **Thrown Weapons**: Daggers, hand axes, spears, and warhammers can be used to make a single ranged attack, but must be retrieved afterwards.
-- **Ranged Weapons**: Crossbows, long bows, short bows, and slings expend 1 ammo every time an attack is made with them.
-- **Armor Class**: All PCs have an Armor Class of 10, plus the AC Bonus provided by armor and shield. Only one suit of armor can be worn. A shield can be combined with armor if the PC is not using a 2-handed weapon. Two-handed weapons include: battle axe, crossbow, great sword, and long bow.
+**Thrown Weapons**: Daggers, hand axes, spears, and warhammers can be used to make a single ranged attack, but must be retrieved afterwards.
+
+**Ranged Weapons**: Crossbows, long bows, short bows, and slings expend 1 ammo every time an attack is made with them.
+
+**Armor Class**: All PCs have an Armor Class of 10, plus the AC Bonus provided by armor and shield. Only one suit of armor can be worn. A shield can be combined with armor if the PC is not using a 2-handed weapon. Two-handed weapons include: battle axe, crossbow, great sword, and long bow.
 
 Each PC then selects **one gear pack** from the options below.
 
