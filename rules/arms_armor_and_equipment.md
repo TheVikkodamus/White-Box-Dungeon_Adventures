@@ -73,11 +73,11 @@ weighs 10 lbs per +1 AC bonus provided. Ten coins weigh about a pound.
 
 |Item|Cost|
 |:---|:---:|
-|||
-|||
-|||
-|||
-|||
+|Backpack (30LB)|5 GP|
+|Bedroll|2 GP|
+|Waterproof Case|3 GP|
+|Crowbar|5 GP|
+|Flint and Steel|5 GP|
 |||
 |||
 |||
