@@ -56,11 +56,11 @@ rounds or cower if unable to flee. If the number listed is “D,” the undead c
 ### Table 2-3: Cleric Spell Advancement
 |Level|1st-Level Spells|2nd level Spells|3rd Level Spells|
 |:---:|:---:|:---:|:---:|
-|1|0|0|0|
-|2|1|0|0|
-|3|2|0|0|
-|4|2|1|0|
-|5|2|2|1|
+|1|1|0|0|0|
+|2|2|0|0|0|
+|3|3|1|0|0|
+|4|4|2|0|0|
+|5|4|2|1|1|
 
 - **Saving Throw**: +2 vs. poison and paralysis effects.
 - **XP Bonus**: +5% on all Experience Points earned if Wisdom is 15+.
