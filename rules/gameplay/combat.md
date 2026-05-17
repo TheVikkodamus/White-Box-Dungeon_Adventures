@@ -40,8 +40,12 @@ Combat continues, with Initiative, Move, and Actions being determined until one 
 At 0 Hit Points characters are dead. They heal 1 Hit Point after resting overnight or can be healed via magic items and some spells.
 
 ### Dungeon Exploration
+
 A dungeon is any underground or lightless environment and is typically home to monsters and treasure. Caves, ruined castles, underground cities, and cursed tombs are all examples of dungeons.
 
+### Light
+
+Most dungeons are dark, requiring portable illumination. Torches burn for one hour and provide a 30 ft. radius of light. If dropped, a torch extinguishes on a 1-2 on 1d6. Lanterns require an oil pint, burn for six hours, and provide a 30 ft. radius of light. If dropped, a lantern shatters and its remaining oil burns for 1d6 rounds. The Light spell provides 30 ft. of illumination. Attack Rolls and many saving throws suffer a -4 penalty for a PC blinded or in total darkness.
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
