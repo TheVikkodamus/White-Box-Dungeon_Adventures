@@ -25,6 +25,7 @@ Move: PCs and monsters can move up to 30 ft. in a combat round. Terrain and obst
 ### Action
 
 **Action**: After moving, PCs can take one action. Example actions include:
+
 - **Attack**: Attacking another character requires them to be within 10 ft. when using melee weapons or within the weapon’s listed range when using ranged weapons. The attacker rolls a d20, adds their Attack Bonus, and (if making a ranged attack), their Dexterity modifier. Other modifiers can apply in specific circumstances. If the total of this Attack Roll is equal to or higher than the target’s Armor Class, the attack is successful and inflicts damage. The amount of damage is determined by the weapon in use and the attacker adds their Strength modifier to this total. All attacks inflict at least 1 damage. This damage is subtracted from the target’s Hit Points. When someone reaches 0 Hit Points they are dead.
 - **Cast a Spell**: Clerics and Wizards can cast one spell per combat round. Each spell has unique effects described beginning on page 25.
 - **Run**: A character can move an additional 30 ft.
@@ -45,7 +46,11 @@ A dungeon is any underground or lightless environment and is typically home to m
 
 ### Light
 
-Most dungeons are dark, requiring portable illumination. Torches burn for one hour and provide a 30 ft. radius of light. If dropped, a torch extinguishes on a 1-2 on 1d6. Lanterns require an oil pint, burn for six hours, and provide a 30 ft. radius of light. If dropped, a lantern shatters and its remaining oil burns for 1d6 rounds. The Light spell provides 30 ft. of illumination. Attack Rolls and many saving throws suffer a -4 penalty for a PC blinded or in total darkness.
+Most dungeons are dark, requiring portable illumination.
+
+- Torches burn for one hour and provide a 30 ft. radius of light. If dropped, a torch extinguishes on a 1-2 on `1d6`.
+- Lanterns require an oil pint, burn for six hours, and provide a 30 ft. radius of light. If dropped, a lantern shatters and its remaining oil burns for `1d6` rounds.
+- The Light spell provides 30 ft. of illumination. Attack Rolls and many saving throws suffer a -4 **penalty** for a PC blinded or in total darkness.
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
