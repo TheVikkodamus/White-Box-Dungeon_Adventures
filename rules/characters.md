@@ -79,6 +79,7 @@ The most numerous and ambitious of the heritages.
 - **Class Restrictions**: Humans can be any class.
 - **Languages**: Fluent in Common.
 
+> [!NOTE]
 > Continue to the next part of this chapter [Class](/rules/class.md).
 
 ---
