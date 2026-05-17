@@ -26,7 +26,7 @@ over this number, the threat is mitigated or avoided entirely.
 Holy crusaders who heal and inspire in battle.
 
 ### Table 2-1: Cleric Advancemnet
-|Level|XP|HD|AB|SV|
+|Level|XP|HD|AB|ST|
 |:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6|+0|15|
 |2|1500|2d6|+0|14|
@@ -69,7 +69,7 @@ rounds or cower if unable to flee. If the number listed is “D,” the undead c
 Warriors who are experts at arms and armor.
 
 ### Table 2-4: Fighter Advancement
-|Level|XP|HD|AB|SV|
+|Level|XP|HD|AB|ST|
 |:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6+1|+1|14|
 |2|2000|2d6+1|+1|13|
@@ -90,7 +90,16 @@ Fighters can use any weapons, armor, and shields.
 
 Arcane wizards and warlocks who wield powerful magic spells.
 
-<!---Add table 2-5 advancement Here-->
+### 2-5 Magic-User Advancement 
+
+|Level|XP|HD|AB|ST|
+|:---:|:---:|:---:|:---:|:---:|
+|1|0|1d6|+0|15|
+|2|2500|1d6+1|0|14|
+|3|5000|2d6+1|0|13|
+|4|10000|2d6+2|+1|12|
+|5|20000|3d6+2|+1|11|
+
 
 ### Weapons & Armor:
 
@@ -101,7 +110,16 @@ combat. They cannot wear armor or use shields.
 - **Spellbook**: All Magic-Users begin play with a spellbook for free. It contains ***Detect Magic, Read Magic, and one random 1st-level spell***.
 - **Spellcasting**: Magic-Users read from their spellbook once each day. They can prepare any spell written in their spellbook, including preparing the same spell more than once, based on the limits shown on **Table 2-6: Magic-User Spell Advancement**.
 
-<!-- Add Table 2-6 Magic-User Spell Advancement-->
+
+### 2-6 Magic-User Spell Advancement
+
+|Level|1st Level Spells|2nd Level Spells|3rd Level Spells
+|---|---|---|---|
+|1|1|0|0|
+|2|2|0|0|
+|3|3|1|0|
+|4|2|0|
+|4|2|1|
 
 - **Saving Throw**: +2 vs. spells and magic items.
 - **XP Bonus**: +5% on all Experience Points earned if Intelligence is 15+. 
