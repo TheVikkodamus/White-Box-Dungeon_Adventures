@@ -98,3 +98,9 @@ weighs 10 lbs per +1 AC bonus provided. Ten coins weigh about a pound.
 |Torches (6)|1 GP|
 |Waterskin|1 GP|
 |Wooden Stakes (12)|1 GP|
+
+> [!NOTE]
+> Congratulations! You have made your character! If you are the Referee/Game Master continue to the next [chapter](/rules/gameplay/combat.md).
+
+---
+© 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
