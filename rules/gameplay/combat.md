@@ -2,7 +2,7 @@
 project: White-Box-Dungeon_Adventures
 chapter: chapter three
 title: Gameplay Combat                                                                 
-tags: [combat, initiative, battle, action, surprise, cast a spell, run, uing an item, reactions, death, dungeon explortion]
+tags: [combat, initiative, battle, action,hirelings, surprise, cast a spell, run, using an item, reactions, death, dungeon explortion]
 author: James M. Spahn
 git_project_by: Victor Gregory Matos
 license: CC BY-SA 4.0
