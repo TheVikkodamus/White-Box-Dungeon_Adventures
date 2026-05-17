@@ -86,5 +86,12 @@ might have a 1-5 in 1d6 chance of identifying the strange metal used to craft a 
 likely knows a lot about swords), and +1 for their high Intelligence. In the end, the d6 Principle is a guideline for Referees and they are the one who makes the final call aboutwhen modifiers for high attributes,
 heritage, and class are appropriate.
 
+### Traps
+
+Traps deserve special attention. They can be discovered and even disarmed via narrative exchange between the players and Referee, provided the PC provides a reasonable explanation of their search and disarming of that trap. Otherwise, when a PC simply says they are searching for traps, there is a **1-2** on `1d6` chance of finding one if it is present. 
+
+Disarming a trap is not possible through vague description on the part of the players. They must provide a detailed description of how they are disarming it and if the Referee still finds their description to be lacking, they have a 1-2 in `1d6` chance of success at best.
+
+
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
