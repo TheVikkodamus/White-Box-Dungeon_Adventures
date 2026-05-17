@@ -124,6 +124,7 @@ combat. They cannot wear armor or use shields.
 - **Saving Throw**: +2 vs. spells and magic items.
 - **XP Bonus**: +5% on all Experience Points earned if Intelligence is 15+. 
 
+> [!NOTES]
 > Go to [arms, armor and equipment](/rules/arms_armor_and_equipment.md) to equip PC. 
 > For optional class go to [Optional Classes](#).
   
