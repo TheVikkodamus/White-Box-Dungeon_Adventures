@@ -36,5 +36,8 @@ not rely on their character sheet and game rules, but on their own intellect
 to solve problems. The Referee will, in turn, adjudicate the results of
 observations and actions in an unbiased manner.
 
+> [!NOTE]
+> Go to the next part and read about how to make [Characters](/rules/characters.md)
+
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
