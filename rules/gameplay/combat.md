@@ -36,6 +36,18 @@ Combat continues, with Initiative, Move, and Actions being determined until one 
 
 **NPCs** who are reduced to 25% of their maximum Hit Points must make a Morale Check. The Referee rolls `2d6`. **On a 7+**, the NPC does not flee. Otherwise, the NPC flees by the safest and most expedient route possible, attempts to surrender or offer parlay, or whatever other means seems appropriate to ensure their survival. A PC’s **Charisma modifier** is added to the Morale Checks of any Hirelings in their service.
 
+### Reaction Check
+
+When first encountering an NPC or monster, if the Referee is unsure how they would react to the PCs roll `3d6`.
+
+|Roll|Reachtion Check|
+|:---:|:---|
+|2-5| Violent|
+|6-14| Cautious|
+|15+| Helpful|
+
+If the PCs have the opportunity to speak to NPCs and share a language, the PC with the highest Charisma can add that modifier to this roll.
+
 ### Death and Healing
 
 At 0 Hit Points characters are dead. They heal 1 Hit Point after resting overnight or can be healed via magic items and some spells.
