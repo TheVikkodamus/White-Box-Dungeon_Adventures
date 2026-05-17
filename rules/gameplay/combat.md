@@ -29,4 +29,6 @@ Action: After moving, PCs can take one action. Example actions include:
 - **Use an Item**: A character can draw an item on their person, use a mechanism, or activate a magic item.
 - **Other**: Any action that could reasonably be accomplished in a round may be attempted if the Referee allows.
 
-Combat continues, with Initiative, Move, and Actions being determined until one side either flees or is defeated. NPCs who are reduced to 25% of their maximum Hit Points must make a Morale Check. The Referee rolls `2d6`. **On a 7+**, the NPC does not flee. Otherwise, the NPC flees by the safest and most expedient route possible, attempts to surrender or offer parlay, or whatever other means seems appropriate to ensure their survival. A PC’s **Charisma modifier** is added to the Morale Checks of any Hirelings in their service.
+Combat continues, with Initiative, Move, and Actions being determined until one side either flees or is defeated. 
+
+NPCs who are reduced to 25% of their maximum Hit Points must make a Morale Check. The Referee rolls `2d6`. **On a 7+**, the NPC does not flee. Otherwise, the NPC flees by the safest and most expedient route possible, attempts to surrender or offer parlay, or whatever other means seems appropriate to ensure their survival. A PC’s **Charisma modifier** is added to the Morale Checks of any Hirelings in their service.
