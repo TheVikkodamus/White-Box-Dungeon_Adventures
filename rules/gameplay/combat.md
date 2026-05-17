@@ -38,6 +38,7 @@ At 0 Hit Points characters are dead. They heal 1 Hit Point after resting overnig
 ### Dungeon Exploration
 A dungeon is any underground or lightless environment and is typically home to monsters and treasure. Caves, ruined castles, underground cities, and cursed tombs are all examples of dungeons.
 
+
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
