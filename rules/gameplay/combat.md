@@ -22,7 +22,7 @@ On the first round of combat, before initiative is rolled, if there is a reasona
 Move: PCs and monsters can move up to 30 ft. in a combat round. Terrain and obstruction may limit this.
 
 ### Action
-Action: After moving, PCs can take one action. Example actions include:
+**Action**: After moving, PCs can take one action. Example actions include:
 - **Attack**: Attacking another character requires them to be within 10 ft. when using melee weapons or within the weapon’s listed range when using ranged weapons. The attacker rolls a d20, adds their Attack Bonus, and (if making a ranged attack), their Dexterity modifier. Other modifiers can apply in specific circumstances. If the total of this Attack Roll is equal to or higher than the target’s Armor Class, the attack is successful and inflicts damage. The amount of damage is determined by the weapon in use and the attacker adds their Strength modifier to this total. All attacks inflict at least 1 damage. This damage is subtracted from the target’s Hit Points. When someone reaches 0 Hit Points they are dead.
 - **Cast a Spell**: Clerics and Wizards can cast one spell per combat round. Each spell has unique effects described beginning on page 25.
 - **Run**: A character can move an additional 30 ft.
