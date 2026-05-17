@@ -89,3 +89,12 @@ weighs 10 lbs per +1 AC bonus provided. Ten coins weigh about a pound.
 |Mule (200 lb. capacity)|20 GP|
 |Pouch (15 lb. limit)|1 GP|
 |Rations (1 day)| 1 GP|
+|Rope (50 ft.)|1 GP|
+|Rucksack (30 lb. limit)|2 GP|
+|Shovel|5 GP|
+|Spellbook (blank)| 100 GP|
+|Ten-foot Pole|1 GP|
+|Tent|20 GP|
+|Torches (6)|1 GP|
+|Waterskin|1 GP|
+|Wooden Stakes (12)|1 GP|
