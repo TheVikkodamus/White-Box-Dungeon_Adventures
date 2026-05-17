@@ -113,13 +113,13 @@ combat. They cannot wear armor or use shields.
 
 ### 2-6 Magic-User Spell Advancement
 
-|Level|1st Level Spells|2nd Level Spells|3rd Level Spells
-|---|---|---|---|
+|Level|1st-Level Spells|2nd level Spells|3rd Level Spells|
+|:---:|:---:|:---:|:---:|
 |1|1|0|0|
 |2|2|0|0|
 |3|3|1|0|
-|4|2|0|
-|4|2|1|
+|4|4|2|0|
+|5|4|2|1|
 
 - **Saving Throw**: +2 vs. spells and magic items.
 - **XP Bonus**: +5% on all Experience Points earned if Intelligence is 15+. 
