@@ -31,6 +31,10 @@ Move: PCs and monsters can move up to 30 ft. in a combat round. Terrain and obst
 - **Use an Item**: A character can draw an item on their person, use a mechanism, or activate a magic item.
 - **Other**: Any action that could reasonably be accomplished in a round may be attempted if the Referee allows.
 
+Combat continues, with Initiative, Move, and Actions being determined until one side either flees or is defeated. 
+
+**NPCs** who are reduced to 25% of their maximum Hit Points must make a Morale Check. The Referee rolls `2d6`. **On a 7+**, the NPC does not flee. Otherwise, the NPC flees by the safest and most expedient route possible, attempts to surrender or offer parlay, or whatever other means seems appropriate to ensure their survival. A PC’s **Charisma modifier** is added to the Morale Checks of any Hirelings in their service.
+
 ### Death and Healing
 
 At 0 Hit Points characters are dead. They heal 1 Hit Point after resting overnight or can be healed via magic items and some spells.
@@ -41,7 +45,3 @@ A dungeon is any underground or lightless environment and is typically home to m
 
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-Combat continues, with Initiative, Move, and Actions being determined until one side either flees or is defeated. 
-
-NPCs who are reduced to 25% of their maximum Hit Points must make a Morale Check. The Referee rolls `2d6`. **On a 7+**, the NPC does not flee. Otherwise, the NPC flees by the safest and most expedient route possible, attempts to surrender or offer parlay, or whatever other means seems appropriate to ensure their survival. A PC’s **Charisma modifier** is added to the Morale Checks of any Hirelings in their service.
