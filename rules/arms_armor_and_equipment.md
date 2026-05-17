@@ -8,7 +8,7 @@ author: James M. Spahn
 git_project_by: Victor Gregory Matos
 license: CC BY-SA 4.0
 status: First Draft
-last_modified: 2026-05-10
+last_modified: 2026-05-17
 ---
 
 # Arms, Armor, and Equipment
@@ -78,12 +78,14 @@ weighs 10 lbs per +1 AC bonus provided. Ten coins weigh about a pound.
 |Waterproof Case|3 GP|
 |Crowbar|5 GP|
 |Flint and Steel|5 GP|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Garlic (1 lb)|10 GP|
+|Grappling Hook|5 GP|
+|Hammer, small| 2 GP|
+|Hand Mirror|5 GP|
+|Holy Symbol|25 GP|
+|Holy Water (1 vial)|25 gp|
+|Iron Spikes (12)|1 GP|
+|Latern Oil (1 pint)|2 GP|
+|Mule (200 lb. capacity)|20 GP|
+|Pouch (15 lb. limit)|1 GP|
+|Rations (1 day)| 1 GP|
