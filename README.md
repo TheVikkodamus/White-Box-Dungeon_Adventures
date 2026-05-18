@@ -24,7 +24,7 @@ last_modified: 2026-05-04
 <details open>
 <summary>Links</summary>
 Do you want to support the author? Here are some links to support them: 
-<br>
+
 [Barrel Rider Game](https://www.facebook.com/BarrelRiderGames/) | [DriveThru-RPG](https://www.drivethrurpg.com/en/product/560236/white-box-dungeon-adventures) | []() 
 </details>
 
