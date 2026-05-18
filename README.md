@@ -11,12 +11,6 @@ status: First Draft
 last_modified: 2026-05-04
 ---
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 # White-Box-Dungeon_Adventures
 **WB: Dungeon Adventure** is a truncated version of the White Box Cyclopedia rules set designed to create a more streamlined experience for players that focuses on the dungeon. It serves as both a compliment to White Box Cyclopedia and a stand-alone product.
 
@@ -26,6 +20,13 @@ last_modified: 2026-05-04
 **Publishing:** [Barrel Rider Games](https://www.drivethrurpg.com/en/publisher/4417/barrel-rider-games)
 
 **White Box: Dungeon Adventure and the Barrel Rider Games logo are trademarks of Barrel Rider Games**. 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 
 Do you want to support the author? Get your pdf or physical copy of this game by following this [link](https://www.drivethrurpg.com/en/product/560236/white-box-dungeon-adventures) to support [Barrel Rider Game](#).  
