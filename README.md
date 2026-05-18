@@ -21,9 +21,9 @@ last_modified: 2026-05-04
 
 **White Box: Dungeon Adventure and the Barrel Rider Games logo are trademarks of Barrel Rider Games**. 
 
-<details>
+<detailsopen>
 <summary>Links</summary>
-Do you want to support the author? Get your pdf or physical copy of this game by following this:
+Do you want to support the author? Here are some links to support them: 
   
   - [DriveThru-RPG](https://www.drivethrurpg.com/en/product/560236/white-box-dungeon-adventures)
  
