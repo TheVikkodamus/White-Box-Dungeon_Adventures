@@ -23,7 +23,8 @@ last_modified: 2026-05-04
 
 <details>
 <summary>Links</summary>
-Do you want to support the author? Get your pdf or physical copy of this game by following this 
+Do you want to support the author? Get your pdf or physical copy of this game by following this:
+  
   - [link](https://www.drivethrurpg.com/en/product/560236/white-box-dungeon-adventures)
  
   - [Barrel Rider Game](#).  
