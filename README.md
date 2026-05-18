@@ -11,6 +11,12 @@ status: First Draft
 last_modified: 2026-05-04
 ---
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 # White-Box-Dungeon_Adventures
 **WB: Dungeon Adventure** is a truncated version of the White Box Cyclopedia rules set designed to create a more streamlined experience for players that focuses on the dungeon. It serves as both a compliment to White Box Cyclopedia and a stand-alone product.
 
