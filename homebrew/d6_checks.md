@@ -1,7 +1,7 @@
 ---
 title: d6 checks
 author: Victor Gregory Matos
-tags: checks, d6, STR, DEX, CON, INT, WIS, CHR, heroic
+tags: [checks, d6, STR, DEX, CON, INT, WIS, CHR, heroic]
 playtested date: 05/25/2026
 ---
 
@@ -9,7 +9,10 @@ playtested date: 05/25/2026
 
 When a character attempts a difficult or heroic feat, the GM will call for a **D6 Check**. 
 
-To resolve a check, the player rolls **1d6**. If the result is **equal to or less than** their current Success Odds for the required Stat, the action succeeds. If the roll is higher, the action fails.
+To resolve a check, the player rolls **1d6**. If the result is **equal to or less than** their current Success Odds for the required Stat (Base Odds + Stat Modifier), the action succeeds. If the roll is higher, the action fails. 
+
+> ### Example: Jumping a Chasm
+> A Fighter wants to leap across a dangerous chasm, requiring a Strength check. Their Strength score is 15. Looking at the table below, a score of 15 has a **2-in-6 Base Odds** and grants a **+1 Stat Modifier**. Combining them gives the Fighter a final **3-in-6 chance** of success, meaning they succeed on a roll of 1, 2, or 3.
 
 ### Stat Reference Table
 
@@ -24,18 +27,18 @@ To resolve a check, the player rolls **1d6**. If the result is **equal to or les
 
 ---
 
-## Base Success Odds
+## Base Success Odds & Stat Modifiers
 
-Your character's base Success Odds are determined by their starting Stat scores. 
+Your character's raw ability scores determine both their base chance of success and their inherent Stat Modifier. 
 
-| STAT SCORE | BASE SUCCESS ODDS | TARGET NUMBERS (1d6) |
-| :---: | :---: | :---: |
-| **17–18** | 3-in-6 | Roll 1, 2, or 3 |
-| **13–16** | 2-in-6 | Roll 1 or 2 |
-| **5–12** | 1-in-6 | Roll 1 |
-| **3–4** | 0-in-6 | Automatic Failure * |
+| STAT SCORE | BASE ODDS | STAT MODIFIER | TOTAL SUCCESS ODDS | TARGET NUMBERS (1d6) |
+| :---: | :---: | :---: | :---: | :---: |
+| **17–18** | 3-in-6 | +2 | **5-in-6** | Roll 1, 2, 3, 4, or 5 |
+| **13–16** | 2-in-6 | +1 | **3-in-6** | Roll 1, 2, or 3 |
+| **5–12** | 1-in-6 | +0 | **1-in-6** | Roll 1 |
+| **3–4** | 0-in-6 | -1 * | **0-in-6** | Automatic Failure * |
 
-*\* Note: Characters with a 0-in-6 chance cannot succeed on a standard check unless they receive situational bonuses or assistance.*
+*\* Note: A character with a total 0-in-6 chance cannot succeed on a standard check unless they receive situational bonuses, expert gear, or outside assistance to raise their odds.*
 
 ---
 
@@ -44,8 +47,8 @@ Your character's base Success Odds are determined by their starting Stat scores.
 As your character grows more experienced, their knack for specific tasks improves without requiring their raw physical attributes to change:
 
 * At **3rd, 6th, 9th, and 12th levels**, you may choose **one** Stat to increase its permanent Success Odds by **+1**.
-* *Example:* If your DEX check starts at a 1-in-6 chance, you can increase it to a 2-in-6 chance at 3rd level. At 6th level, you can choose to boost DEX again (to 3-in-6) or pick a different Stat to improve.
-* **Hard Cap:** No Stat's success odds can ever be improved beyond a **5-in-6** chance.
+* *Example:* If your total DEX check starts at a 1-in-6 chance, you can increase it to a 2-in-6 chance at 3rd level. At 6th level, you can choose to boost DEX again (to 3-in-6) or pick a different Stat to improve.
+* **Hard Cap:** No Stat's final success odds can ever be improved beyond a **5-in-6** chance.
 
 ---
 
@@ -53,7 +56,7 @@ As your character grows more experienced, their knack for specific tasks improve
 
 When characters work together to overcome an obstacle, the extra help increases the likelihood of success:
 
-* If one ally **assists** another, the active player's success threshold increases by **+1** (e.g., a 2-in-6 chance becomes a 3-in-6 chance).
+* If one ally **assists** another, the active player's success threshold increases by **+1** (e.g., a 3-in-6 chance becomes a 4-in-6 chance).
 * The assistance must make sense within the immediate narrative.
 * Multiple allies can assist, but the total teamwork bonus **cannot exceed +2**.
 
@@ -61,4 +64,4 @@ When characters work together to overcome an obstacle, the extra help increases 
 
 ## Optional Rules & Clarifications
 
-* **Critical Rolls:** When rolling a D6 Check, a natural **1** is always a success, and a natural **6** is always a failure, regardless of modifiers or adjusted odds.
+* **Critical Rolls:** When rolling a D6 Check, a natural **1** is always a success, and a natural **6** is always a failure, regardless of modifiers, advancements, or adjusted odds.
