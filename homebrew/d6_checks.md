@@ -8,14 +8,14 @@ playtested date: 05/25/2026
 
 What is a D6 check? D6 checks are when a player character would like to do something dangerous, or difficult while exploring a dungeon, trying to persuade a person when telling a lie. 
 
-**| **STAT**               | **EXAMPLES**                                                                                                                                                                    |
+| **STAT**             | **EXAMPLES**                                                                                                                                                                  |
 | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **STR (Strength)**     | *Athletics (climbing, jumping, grappling, lifting, swimming), Rough wall climbing (not smooth – thief skill only)*                                                              |
 | **DEX (Dexterity)**    | *Acrobatics (balancing, flips), Sleight of Hand (picking pockets), Stealth (hiding, moving quietly), Walking on ice or an edge, Tying a rope quickly, Lighting a torch quickly* |
 | **CON (Constitution)** | *Holding breath, Resisting poison, Endurance, Nausea, Surviving harsh weather*                                                                                                  |
 | **INT (Intelligence)** | *Arcana (magic knowledge), History, Investigation (searching, puzzling clues), Nature (plants, terrain, weather), Religion (lore, rituals), Scribing, Reading*                  |
 | **WIS (Wisdom)**       | *Animal Handling, Insight (reading people), Medicine (treating wounds), Perception (spotting danger), Survival (tracking, navigation), Nature (animal behavior)*                |
-| **CHR (Charisma)**     | *Deception (lying), Intimidation (threats), Performance (acting, music, mimicry), Persuasion (convincing NPCs)*                                                                 |**
+| **CHR (Charisma)**     | *Deception (lying), Intimidation (threats), Performance (acting, music, mimicry), Persuasion (convincing NPCs)*                                                                 |
 
 ## Scores
 
