@@ -9,7 +9,7 @@ playtested date: 05/25/2026
 
 When a character attempts a difficult or heroic feat, the GM will call for a **D6 Check**. 
 
-To resolve a check, the player rolls **1d6**. If the result is **equal to or less than** their current Success Odds for the required Stat (Base Odds + Stat Modifier), the action succeeds. If the roll is higher, the action fails. 
+To resolve a check, the player rolls `1d6`. If the result is **equal to or less than** their current Success Odds for the required Stat (Base Odds + Stat Modifier), the action succeeds. If the roll is higher, the action fails. 
 
 ### Stat Reference Table
 
