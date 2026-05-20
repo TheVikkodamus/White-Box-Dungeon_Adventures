@@ -1,5 +1,5 @@
 ---
-title: d6 checks
+title: D6 Checks
 author: Victor Gregory Matos
 tags: [checks, d6, STR, DEX, CON, INT, WIS, CHR, heroic]
 playtested date: 05/25/2026
