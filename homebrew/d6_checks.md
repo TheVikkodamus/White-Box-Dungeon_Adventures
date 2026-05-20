@@ -6,55 +6,58 @@ playtested date: 05/25/2026
 
 # D6 Checks
 
-What is a D6 check? D6 checks are when a player character would like to do something dangerous, or difficult while exploring a dungeon, trying to persuade a person when telling a lie. 
+When a character attempts a difficult or heroic feat, the GM will call for a **D6 Check**. 
 
-| **STAT**             | **EXAMPLES**                                                                                                                                                                  |
-| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **STR (Strength)**     | *Athletics (climbing, jumping, grappling, lifting, swimming), Rough wall climbing (not smooth – thief skill only)*                                                              |
-| **DEX (Dexterity)**    | *Acrobatics (balancing, flips), Sleight of Hand (picking pockets), Stealth (hiding, moving quietly), Walking on ice or an edge, Tying a rope quickly, Lighting a torch quickly* |
-| **CON (Constitution)** | *Holding breath, Resisting poison, Endurance, Nausea, Surviving harsh weather*                                                                                                  |
-| **INT (Intelligence)** | *Arcana (magic knowledge), History, Investigation (searching, puzzling clues), Nature (plants, terrain, weather), Religion (lore, rituals), Scribing, Reading*                  |
-| **WIS (Wisdom)**       | *Animal Handling, Insight (reading people), Medicine (treating wounds), Perception (spotting danger), Survival (tracking, navigation), Nature (animal behavior)*                |
-| **CHR (Charisma)**     | *Deception (lying), Intimidation (threats), Performance (acting, music, mimicry), Persuasion (convincing NPCs)*                                                                 |
+To resolve a check, the player rolls **1d6**. If the result is **equal to or less than** their current Success Odds for the required Stat, the action succeeds. If the roll is higher, the action fails.
 
-## Scores
+### Stat Reference Table
 
-|STAT SCORE|SUCCESS ODDS|
-|:---:|:---:|
-|17-18|3-in-6|
-|13-16|2-in-6|
-|5-12|1-in-6|
-|3-4|0-in-6|
+| STAT | EXAMPLES |
+| :--- | :--- |
+| **STR** (Strength) | Athletics (climbing, jumping, grappling, lifting, swimming), Rough wall climbing *(non-smooth surfaces)* |
+| **DEX** (Dexterity) | Acrobatics (balancing, flips), Sleight of Hand (picking pockets), Stealth (hiding, moving quietly), Walking on ice or narrow edges, Tying a rope quickly, Lighting a torch under pressure |
+| **CON** (Constitution) | Holding breath, Resisting poison or disease, Endurance, Overcoming nausea, Surviving harsh weather |
+| **INT** (Intelligence) | Arcana (magic knowledge), History, Investigation (searching, puzzling clues), Nature (plants, terrain, weather lore), Religion (lore, rituals), Scribing, Reading unfamiliar scripts |
+| **WIS** (Wisdom) | Animal Handling, Insight (reading people), Medicine (treating wounds), Perception (spotting danger), Survival (tracking, navigation) |
+| **CHR** (Charisma) | Deception (lying), Intimidation (threats), Performance (acting, music, mimicry), Persuasion (convincing NPCs) |
 
-<hr>
+---
+
+## Base Success Odds
+
+Your character's base Success Odds are determined by their starting Stat scores. 
+
+| STAT SCORE | BASE SUCCESS ODDS | TARGET NUMBERS (1d6) |
+| :---: | :---: | :---: |
+| **17–18** | 3-in-6 | Roll 1, 2, or 3 |
+| **13–16** | 2-in-6 | Roll 1 or 2 |
+| **5–12** | 1-in-6 | Roll 1 |
+| **3–4** | 0-in-6 | Automatic Failure * |
+
+*\* Note: Characters with a 0-in-6 chance cannot succeed on a standard check unless they receive situational bonuses or assistance.*
+
+---
 
 ## Leveling Up & Skill Advancement
-- At **3rd, 6th, 9th, and 12th levels**, you may increase the odds of success for **one** STAT skill by +1.
-- Example: If your DEX skill starts at 1-in-6, at 3rd level you may increase it to 2-in-6. At 6th level, you can increase it again or boost a different skill.
-- These improvements do **not** change your base STAT score, only the skill's success odds.
-- **No skill can be greater than 5-in-6.**
 
-<hr>
+As your character grows more experienced, their knack for specific tasks improves without requiring their raw physical attributes to change:
+
+* At **3rd, 6th, 9th, and 12th levels**, you may choose **one** Stat to increase its permanent Success Odds by **+1**.
+* *Example:* If your DEX check starts at a 1-in-6 chance, you can increase it to a 2-in-6 chance at 3rd level. At 6th level, you can choose to boost DEX again (to 3-in-6) or pick a different Stat to improve.
+* **Hard Cap:** No Stat's success odds can ever be improved beyond a **5-in-6** chance.
+
+---
 
 ## Assisting & Teamwork
-- If a player **assists** another in a skill check, the target number increases by **+1**.
-- Assistance must be justifiable within the game's narrative.
-- Multiple players assisting **do not** stack beyond this +2 bonus.
+
+When characters work together to overcome an obstacle, the extra help increases the likelihood of success:
+
+* If one ally **assists** another, the active player's success threshold increases by **+1** (e.g., a 2-in-6 chance becomes a 3-in-6 chance).
+* The assistance must make sense within the immediate narrative.
+* Multiple allies can assist, but the total teamwork bonus **cannot exceed +2**.
 
 ---
 
 ## Optional Rules & Clarifications
-- **Critical Rolls:** Rolling a 1 is always a success, while rolling a 6 is always a failure (if applicable).
 
----
-
-## Example Rolls
-- A rogue (DEX 14) tries to sneak past a guard:
-  - **DEX 14 → 2-in-6 chance of success**
-  - Rolls a **2** → Success!
-- A fighter (STR 17) attempts to push open a heavy door:
-  - **STR 17 → 3-in-6 chance of success**
-  - Rolls a **5** → Failure!
-- A wizard (INT 10) attempts to recall an ancient spell:
-  - **INT 10 → 1-in-6 chance of success**
-  - Rolls a **2** → Failure!
+* **Critical Rolls:** When rolling a D6 Check, a natural **1** is always a success, and a natural **6** is always a failure, regardless of modifiers or adjusted odds.
