@@ -38,7 +38,7 @@ Your character's raw ability scores determine both their base chance of success 
 *\* Note: A character with a total 0-in-6 chance cannot succeed on a standard check unless they receive situational bonuses, expert gear, or outside assistance to raise their odds.*
 
 > ### Example: Jumping a Chasm
-> A Fighter wants to leap across a dangerous chasm, requiring a Strength check. Their Strength score is 15. Looking at the table below, a score of 15 has a **2-in-6 Base Odds** and grants a **+1 Stat Modifier**. Combining them gives the Fighter a final **3-in-6 chance** of success, meaning they succeed on a roll of 1, 2, or 3.
+> A Fighter wants to leap across a dangerous chasm, requiring a Strength check. Their Strength score is 15. Looking at the table **above**, a score of 15 has a **2-in-6 Base Odds** and grants a **+1 Stat Modifier**. Combining them gives the Fighter a final **3-in-6 chance** of success, meaning they succeed on a roll of 1, 2, or 3.
 
 ---
 
