@@ -12,6 +12,7 @@ last modified: 05/20/2026
 Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in combat when the opponent least expects it.
 
 ### Table for Thief Advancement
+
 <center>
 |Level|XP|HD|AB|SV|TS|
 |:---:|:---:|:---:|:---:|:---:|:---:|
