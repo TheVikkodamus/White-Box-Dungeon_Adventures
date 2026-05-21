@@ -13,8 +13,6 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 
 ### Table for Thief Advancement
 
-<center>
-  
 |Level|XP|HD|AB|SV|TS|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6|+0|14|2|
@@ -22,8 +20,6 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 |3|2500|3d6|+0|12|2|
 |4|5000|3d6+1|+1|11|3|
 |5|10000|4d6+1|+1|10|3|
-
-</center>
 
 ### Abilities
 
@@ -45,7 +41,7 @@ Roll `1d6` for tasks such as :
 - Move silently / Hide
 - Climb walls
 
-> [!Notes]
+> [!EXAMPLE]
 > The party's thief wants to disarm a trap in the dungeon's hallway. They will roll a `1d6` and must roll a 1 or 2 in their Thievery Skill roll to succeed.
 > Thief rolls a 1d6 and gets a 5. The thief was not successful to disarm the trap. Thus, this triggers it and players will have to do a DEX Save Throw. 
 
