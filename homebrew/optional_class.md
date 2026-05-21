@@ -22,11 +22,16 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 
 ### Abilities
 
-**Weapons & Armor**: Can use any weapon but wear only leather armor.
+### Weapons & Armor: 
 
-**Backstab**: +2 to hit and roll damage twice when attacking from surprise.
+Can use any weapon but wear only leather armor.
 
-**Thievery Skills**: Roll 1d6 for tasks such as :
+### Backstab: 
+
++2 to hit and roll damage twice when attacking from surprise.
+
+### Thievery Skills: 
+Roll 1d6 for tasks such as :
 - Pick pockets
 - Open locks
 - Disarm traps
