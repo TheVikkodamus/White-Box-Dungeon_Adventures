@@ -21,14 +21,21 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 |5|10000|4d6+1|+1|10|3|
 
 ### Abilities
-Weapons & Armor: Can use any weapon but wear only leather armor.
+
+Weapons & Armor: 
+Can use any weapon but wear only leather armor.
+
 Backstab: +2 to hit and roll damage twice when attacking from surprise.
+
 Thievery Skills: Roll 1d6 for tasks such as (GM rolls):
-Pick pockets
-Open locks
-Disarm traps
-Move silently / Hide
-Climb walls
+- Pick pockets
+- Open locks
+- Disarm traps
+- Move silently / Hide
+- Climb walls
+
 Always Thinks They’re Hidden: Even if the Thief fails a stealth check, they believe they succeeded.
-Establish Guild (Level 9): May create a secret guild and attract apprentices.
+
+Saving Throw: Thieves receive a +2 bonus to any saving throw made to reduce or avoid the effects of any trap, magical or mundane.
+
 XP Bonus: Dexterity 15+ grants a +5% XP bonus.
