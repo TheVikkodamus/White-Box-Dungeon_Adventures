@@ -42,8 +42,10 @@ Roll `1d6` for tasks such as :
 - Climb walls
 
 > [!TIP]
-> The party's thief wants to disarm a trap in the dungeon's hallway. They will roll a `1d6` and must roll a 1 or 2 in their Thievery Skill roll to succeed.
-> Thief rolls a 1d6 and gets a 5. The thief was not successful to disarm the trap. Thus, this triggers it and players will have to do a DEX Save Throw. 
+> **Example: Disarming a Trap**
+> The party's Thief wants to disarm a trap in a dungeon hallway. To succeed, they must roll a 1 or 2 on a `1d6` for their Thievery skill check. 
+> 
+> The player rolls a `1d6` and gets a 5. Because the roll is higher than their success odds, the Thief fails to disarm the trap, accidentally triggering it. The GM calls for the party to make a **DEX Saving Throw** to avoid the danger.
 
 **Always Thinks They’re Hidden**: Even if the Thief fails a stealth check, they believe they succeeded.
 
