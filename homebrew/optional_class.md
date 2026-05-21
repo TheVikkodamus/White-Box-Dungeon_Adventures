@@ -43,6 +43,7 @@ Roll `1d6` for tasks such as :
 
 > [!TIP]
 > **Example: Disarming a Trap**
+> 
 > The party's Thief wants to disarm a trap in a dungeon hallway. To succeed, they must roll a 1 or 2 on a `1d6` for their Thievery skill check. 
 > 
 > The player rolls a `1d6` and gets a 5. Because the roll is higher than their success odds, the Thief fails to disarm the trap, accidentally triggering it. The GM calls for the party to make a **DEX Saving Throw** to avoid the danger.
