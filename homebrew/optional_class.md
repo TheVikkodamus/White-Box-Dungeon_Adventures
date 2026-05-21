@@ -12,7 +12,7 @@ last modified: 05/20/2026
 Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in combat.
 
 ### Table for Thief Advancement
-|Level|XP|HD|AB|SV|TH|
+|Level|XP|HD|AB|SV|TS|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6|+0|14|2|
 |2|1250|2d6|+0|13|2|
@@ -22,20 +22,19 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 
 ### Abilities
 
-Weapons & Armor: 
-Can use any weapon but wear only leather armor.
+**Weapons & Armor**: Can use any weapon but wear only leather armor.
 
-Backstab: +2 to hit and roll damage twice when attacking from surprise.
+**Backstab**: +2 to hit and roll damage twice when attacking from surprise.
 
-Thievery Skills: Roll 1d6 for tasks such as (GM rolls):
+**Thievery Skills**: Roll 1d6 for tasks such as (GM rolls):
 - Pick pockets
 - Open locks
 - Disarm traps
 - Move silently / Hide
 - Climb walls
 
-Always Thinks They’re Hidden: Even if the Thief fails a stealth check, they believe they succeeded.
+**Always Thinks They’re Hidden**: Even if the Thief fails a stealth check, they believe they succeeded.
 
-Saving Throw: Thieves receive a +2 bonus to any saving throw made to reduce or avoid the effects of any trap, magical or mundane.
+**Saving Throw**: Thieves receive a +2 bonus to any saving throw made to reduce or avoid the effects of any trap, magical or mundane.
 
-XP Bonus: Dexterity 15+ grants a +5% XP bonus.
+**XP Bonus**: Dexterity 15+ grants a +5% XP bonus.
