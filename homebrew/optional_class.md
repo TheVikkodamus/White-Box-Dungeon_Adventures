@@ -9,7 +9,7 @@ last modified: 05/20/2026
 
 ## Thief
 
-Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in combat.
+Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in combat when the opponent least expects it.
 
 ### Table for Thief Advancement
 |Level|XP|HD|AB|SV|TS|
@@ -26,7 +26,7 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 
 **Backstab**: +2 to hit and roll damage twice when attacking from surprise.
 
-**Thievery Skills**: Roll 1d6 for tasks such as (GM rolls):
+**Thievery Skills**: Roll 1d6 for tasks such as :
 - Pick pockets
 - Open locks
 - Disarm traps
