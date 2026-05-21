@@ -42,7 +42,7 @@ Roll `1d6` for tasks such as :
 - Climb walls
 
 > [!TIP]
-> **Example: Disarming a Trap**
+> ### Example: Disarming a Trap
 > 
 > The party's Thief wants to disarm a trap in a dungeon hallway. Their base Thievery skill gives them a **2-in-6 chance** of success (requiring a roll of 1 or 2).
 > 
