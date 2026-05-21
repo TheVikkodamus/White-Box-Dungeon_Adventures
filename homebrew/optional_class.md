@@ -40,7 +40,7 @@ Roll `1d6` for tasks such as :
 - Move silently / Hide
 - Climb walls
 
-> [!Example]
+> [!Notes]
 > The party's thief wants to disarm a trap in the dungeon's hallway. They will roll a `1d6` and must roll a 1 or 2 in their Thievery Skill roll to succeed.
 > Thief rolls a 1d6 and gets a 5. The thief was not successful to disarm the trap. Thus, this triggers it and players will have to do a DEX Save Throw. 
 
