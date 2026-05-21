@@ -14,6 +14,7 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 ### Table for Thief Advancement
 
 <center>
+  
 |Level|XP|HD|AB|SV|TS|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|0|1d6|+0|14|2|
@@ -21,6 +22,7 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 |3|2500|3d6|+0|12|2|
 |4|5000|3d6+1|+1|11|3|
 |5|10000|4d6+1|+1|10|3|
+
 </center>
 
 ### Abilities
