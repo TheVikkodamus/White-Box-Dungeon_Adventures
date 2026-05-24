@@ -7,6 +7,29 @@ last modified: 05/20/2026
 
 # Optional Class
 
+## Bard
+Traveling minstrels and wandering storytellers, they live on the road, moving town to town where they sing for both peasants and kings alike.
+
+## Table for Bard Advancement
+
+
+| Level | XP | HD | AB | SV | LS *|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 0 | 1d6 | +0 | 14 | 1 |
+| 2 | 1250 | 2d6 | +0 | 13 | 1 |
+| 3 | 2500 | 2d6+1 | +0 | 12 | 2 |
+| 4 | 5000 | 3d6+2 | +1 | 11 | 2 |
+| 5 | 10000 | 4d6+1 | +1 | 10 | 3 |
+
+*\* LS = Lore Skills target number.*
+
+### Abilities
+
+**Weapons & Armor:** 
+
+Can use any one-handed weapon, any ranged weapon, and a quarterstaff. They can wear leather armor and chain mail, as well use a shield.
+
+
 ## Thief
 
 Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in combat when the opponent least expects it.
