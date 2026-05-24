@@ -58,7 +58,7 @@ Bards that have a Charisma of 15 or higher receives a +5% bonus on all Experienc
 
 Druids serve the very essence of nature itself. They are as much of the earth as they are upon it. By communing with the natural world, they are able to draw power from its agelessness and weave powerful magic.
 
-### Table for Druid Advancement
+## Table for Druid Advancement
 
 
 | Level | XP | HD | AB | SV | FS *| 1st-Level Spells| 2nd-Level Spells| 3rd-Level Spells|
@@ -71,7 +71,11 @@ Druids serve the very essence of nature itself. They are as much of the earth as
 
 *\* FS = Forestry Skills target number.*
 
-#### Weapon and Armor Restriction:
+### Abilities
+
+#### Weapons & Armor:
+
+Druids are not combative by nature and limit themselves to simple weapons made primarily of natural substances. They may only wield the following weapons: club, dagger, hand axe, sling, spear, and staff. They may wear leather armor only but may use shields that are made solely of wood.
 
 
 ---
