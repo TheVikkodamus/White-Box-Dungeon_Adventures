@@ -81,6 +81,10 @@ Druids are not combative by nature and limit themselves to simple weapons made p
 Druids are most at home in the wilderness, among the flora and fauna of the world. Their Forestry ability may be used to track both humanoids and animals in natural environments. When in these natural environments, Forestry
 may also be used to remain both unseen and silent. Finally, when a Druid encounters a natural wild beast, they may utilize this ability in an attempt to sooth and calm such an animal. To use the ability, the Referee rolls 1d6. If the number rolled is equal to or below the Druid’s Forestry ability, they have succeeded. This chance of success is modified by a Druid’s Wisdom modifier.
 
+> [!NOTE]
+> A Druid can retain the service of a single **animal companion** whose hit dice are equal to or less than the Druid’s level. The Druid has an empathic relationship with this animal and can sense its emotional state. The animal will follow the Druid’s verbal commands to the best of its ability based on its intellect. Drawing the services of such an animal requires the Druid to meditate for 1d6 hours in a wilderness environment where the desired animal is native
+before the animal emerges to join the Druid. If the animal is slain the Druid cannot draw a new animal into its service until they gain a level of experience. These animals are always natural beasts like bears, birds, or wolves and cannot be magical creatures.
+
 #### Spellcasting:
 Druids cast divine spells from the Cleric Spell List. Each day, the Druid must meditate in a natural location (such as a forest grove or natural cave) for 15 uninterrupted minutes for a certain set of spells. The player then chooses any spells from the Cleric Spell List available to them based on the limits of their level as noted on on the [Table for Druid Advancement](/homebrew/optional_class.md#table-for-druid-advancement). A Druid cannot pray to gain spells in this fashion more than once per day. Druids typically pray at sunrise or sunset.
 
@@ -90,6 +94,7 @@ Druids receive a +2 bonus to all saving throws made to resist damage from cold, 
 #### Experience Point Bonus: 
 
 Druids that have a Constitution of 15 or higher receives a +5% bonus on all Experience Points earned.
+
 
 
 
