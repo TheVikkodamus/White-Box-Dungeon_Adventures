@@ -126,7 +126,7 @@ combat. They cannot wear armor or use shields.
 
 > [!NOTE]
 > Go to [arms, armor and equipment](/rules/arms_armor_and_equipment.md) to equip PC. 
-> For optional class go to [Optional Classes](#).
+> For optional class go to [Optional Classes](/homebrew/optional_class.md).
   
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
