@@ -60,7 +60,6 @@ Druids serve the very essence of nature itself. They are as much of the earth as
 
 ## Table for Druid Advancement
 
-
 | Level | XP | HD | AB | SV | FS *| 1st-Level Spells| 2nd-Level Spells| 3rd-Level Spells|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: | :---: |
 | 1 | 0 | 1d6 | +0 | 15 | 2 | - | - | - |
@@ -77,6 +76,17 @@ Druids serve the very essence of nature itself. They are as much of the earth as
 
 Druids are not combative by nature and limit themselves to simple weapons made primarily of natural substances. They may only wield the following weapons: club, dagger, hand axe, sling, spear, and staff. They may wear leather armor only but may use shields that are made solely of wood.
 
+#### Forestry: 
+
+Druids are most at home in the wilderness, among the flora and fauna of the world. Their Forestry ability may be used to track both humanoids and animals in natural environments. When in these natural environments, Forestry
+may also be used to remain both unseen and silent. Finally, when a Druid encounters a natural wild beast, they may utilize this ability in an attempt to sooth and calm such an animal. To use the ability, the Referee rolls 1d6. If the number rolled is equal to or below the Druid’s Forestry ability, they have succeeded. This chance of success is modified by a Druid’s Wisdom modifier.
+
+#### Saving Throw Bonus:
+Druids receive a +2 bonus to all saving throws made to resist damage from cold, fire and poisons.
+
+#### Experience Point Bonus: 
+
+Druids that have a Constitution of 15 or higher receives a +5% bonus on all Experience Points earned.
 
 ---
 
