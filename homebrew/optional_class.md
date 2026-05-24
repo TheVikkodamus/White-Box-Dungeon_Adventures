@@ -29,6 +29,14 @@ Traveling minstrels and wandering storytellers, they live on the road, moving to
 
 Can use any one-handed weapon, any ranged weapon, and a quarterstaff. They can wear leather armor and chain mail, as well use a shield.
 
+#### Inspiring Performer: 
+A Bard can inspire their allies in battle instead of casting a spell or attacking during a combat round by performing a rousing song, reciting epic poetry, or simply providing
+words of encouragement to their allies. The Bard must be able to speak, and in most cases makes use of a musical instrument to use this ability. While using this ability, all the Bard’s allies that are able to hear them receive a +1 bonus to all attack rolls and saving throws. This bonus remains
+
+in effect for as long as the Bard is performing. If
+the Bard suffers damage or is incapacitated, this
+ends the effect immediately.
+
 
 ## Thief
 
