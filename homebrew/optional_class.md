@@ -52,7 +52,24 @@ Bards receive a +2 bonus on all saving throws made to resist spells and magical 
 
 Bards that have a Charisma of 15 or higher receives a +5% bonus on all Experience Points earned.
 
+---
 
+## Druid
+
+Druids serve the very essence of nature itself. They are as much of the earth as they are upon it. By communing with the natural world, they are able to draw power from its agelessness and weave powerful magic.
+
+## Table for Druid Advancement
+
+
+| Level | XP | HD | AB | SV | FS *| 1st-Level Spells| 2nd-Level Spells| 3rd-Level Spells|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: | :---: |
+| 1 | 0 | 1d6 | +0 | 15 | 2 | - | - | - |
+| 2 | 1500 | 2d6 | +0 | 14 | 2 | 1 | - | -  |
+| 3 | 2500 | 3d6 | +0 | 13 | 2 | 2 |- | - |
+| 4 | 6000 | 3d6+1 | +1 | 12 | 3 | 2 | 1| - |
+| 5 | 12000 | 4d6+1 | +1 | 11 | 3 | 2 | 2 | 1 |   
+
+---
 
 ## Thief
 
