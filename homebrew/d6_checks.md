@@ -16,12 +16,12 @@ To resolve a check, the player rolls `1d6`. If the result is **equal to or less 
 
 | STAT | EXAMPLES |
 | :--- | :--- |
-| **STR** (Strength) | Athletics (climbing, jumping, grappling, lifting, swimming), Rough wall climbing *(non-smooth surfaces)* |
-| **DEX** (Dexterity) | Acrobatics (balancing, flips), Sleight of Hand (picking pockets), Stealth (hiding, moving quietly), Walking on ice or narrow edges, Tying a rope quickly, Lighting a torch under pressure |
-| **CON** (Constitution) | Holding breath, Resisting poison or disease, Endurance, Overcoming nausea, Surviving harsh weather |
-| **INT** (Intelligence) | Arcana (magic knowledge), History, Investigation (searching, puzzling clues), Nature (plants, terrain, weather lore), Religion (lore, rituals), Scribing, Reading unfamiliar scripts |
-| **WIS** (Wisdom) | Animal Handling, Insight (reading people), Medicine (treating wounds), Perception (spotting danger), Survival (tracking, navigation) |
-| **CHR** (Charisma) | Deception (lying), Intimidation (threats), Performance (acting, music, mimicry), Persuasion (convincing NPCs) |
+| **STR**ength | Athletics (climbing, jumping, grappling, lifting, swimming), Rough wall climbing *(non-smooth surfaces)* |
+| **DEX**terity | Acrobatics (balancing, flips), Sleight of Hand (picking pockets), Stealth (hiding, moving quietly), Walking on ice or narrow edges, Tying a rope quickly, Lighting a torch under pressure |
+| **CON**stitution | Holding breath, Resisting poison or disease, Endurance, Overcoming nausea, Surviving harsh weather |
+| **INT**elligence | Arcana (magic knowledge), History, Investigation (searching, puzzling clues), Nature (plants, terrain, weather lore), Religion (lore, rituals), Scribing, Reading unfamiliar scripts |
+| **WIS**dom | Animal Handling, Insight (reading people), Medicine (treating wounds), Perception (spotting danger), Survival (tracking, navigation) |
+| **CHA**risma | Deception (lying), Intimidation (threats), Performance (acting, music, mimicry), Persuasion (convincing NPCs) |
 
 ---
 
