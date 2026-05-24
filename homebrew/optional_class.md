@@ -1,8 +1,8 @@
 ---
 title: Optional Class
-tags: [class, optional class, thief, WBDA]
+tags: [class, optional class, bard, druid, thief, WBDA]
 author: Victor Gregory Matos
-last modified: 05/20/2026
+last modified: 05/24/2026
 ---
 
 # Optional Class
