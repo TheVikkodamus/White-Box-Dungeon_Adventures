@@ -82,7 +82,7 @@ Druids are most at home in the wilderness, among the flora and fauna of the worl
 may also be used to remain both unseen and silent. Finally, when a Druid encounters a natural wild beast, they may utilize this ability in an attempt to sooth and calm such an animal. To use the ability, the Referee rolls 1d6. If the number rolled is equal to or below the Druid’s Forestry ability, they have succeeded. This chance of success is modified by a Druid’s Wisdom modifier.
 
 #### Spellcasting:
-Druids cast divine spells from the Cleric Spell List. Each day, the Druid must meditate in a natural location (such as a forest grove or natural cave) for 15 uninterrupted minutes for a certain set of spells. The player then chooses any spells from the Cleric Spell List available to them based on the limits of their level as noted on on the [table for Druid Advancement](). A Druid cannot pray to gain spells in this fashion more than once per day. Druids typically pray at sunrise or sunset.
+Druids cast divine spells from the Cleric Spell List. Each day, the Druid must meditate in a natural location (such as a forest grove or natural cave) for 15 uninterrupted minutes for a certain set of spells. The player then chooses any spells from the Cleric Spell List available to them based on the limits of their level as noted on on the [Table for Druid Advancement](/homebrew/optional_class.md#table-for-druid-advancement). A Druid cannot pray to gain spells in this fashion more than once per day. Druids typically pray at sunrise or sunset.
 
 #### Saving Throw Bonus:
 Druids receive a +2 bonus to all saving throws made to resist damage from cold, fire and poisons.
