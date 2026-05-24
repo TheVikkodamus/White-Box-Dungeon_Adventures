@@ -25,7 +25,7 @@ Traveling minstrels and wandering storytellers, they live on the road, moving to
 
 ### Abilities
 
-**Weapons & Armor:** 
+#### Weapons & Armor:
 
 Can use any one-handed weapon, any ranged weapon, and a quarterstaff. They can wear leather armor and chain mail, as well use a shield.
 
