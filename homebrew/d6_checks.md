@@ -27,21 +27,20 @@ To resolve a check, the player rolls `1d6`. If the result is **equal to or less 
 
 ## Base Success Odds & Stat Modifiers
 
-Your character's raw ability scores determine both their base chance of success and their inherent Stat Modifier. 
+Your character's raw ability scores determine both their base chance of success and their inherent Stat Modifier, matching classic *White Box* attributes.
 
 | STAT SCORE | BASE ODDS | STAT MODIFIER | TOTAL SUCCESS ODDS | TARGET NUMBERS (1d6) |
 | :---: | :---: | :---: | :---: | :---: |
-| **17–18** | 3-in-6 | +2 | **5-in-6** | Roll 1, 2, 3, 4, or 5 |
-| **13–16** | 2-in-6 | +1 | **3-in-6** | Roll 1, 2, or 3 |
-| **5–12** | 1-in-6 | +0 | **1-in-6** | Roll 1 |
-| **3–4** | 0-in-6 | -1 * | **0-in-6** | Automatic Failure * |
+| **15–18** | 2-in-6 | +1 | **3-in-6** | Roll 1, 2, or 3 |
+| **7–14** | 1-in-6 | +0 | **1-in-6** | Roll 1 |
+| **3–6** | 0-in-6 | -1 * | **1-in-6** | Roll 1 *(Underdog Rule)* |
 
-*\* Note: A character with a total 0-in-6 chance cannot succeed on a standard check unless they receive situational bonuses, expert gear, or outside assistance to raise their odds.*
+> [!NOTE]
+> Even with a poor attribute score or a negative modifier, a character always maintains a baseline **1-in-6 chance** of success. This ensures no heroic feat is truly impossible unless the Referee explicitly rules otherwise due to narrative circumstances.
 
 > [!TIP]
-> 
->  ### Example: Jumping a Chasm
-> A Fighter wants to leap across a dangerous chasm, requiring a Strength check. Their Strength score is 15. Looking at the table **above**, a score of 15 has a **2-in-6 Base Odds** and grants a **+1 Stat Modifier**. Combining them gives the Fighter a final **3-in-6 chance** of success, meaning they succeed on a roll of 1, 2, or 3.
+> ### Example: Jumping a Chasm
+> A Fighter wants to leap across a dangerous chasm, requiring a Strength check. Their Strength score is 15. Looking at the table **above**, a score of 15 falls into the highest bracket, giving them **2-in-6 Base Odds** and a **+1 Stat Modifier**. Combining them gives the Fighter a final **3-in-6 chance** of success, meaning they succeed on a roll of 1, 2, or 3.
 
 ---
 
