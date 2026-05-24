@@ -58,7 +58,7 @@ Bards that have a Charisma of 15 or higher receives a +5% bonus on all Experienc
 
 Druids serve the very essence of nature itself. They are as much of the earth as they are upon it. By communing with the natural world, they are able to draw power from its agelessness and weave powerful magic.
 
-## Table for Druid Advancement
+### Table for Druid Advancement
 
 
 | Level | XP | HD | AB | SV | FS *| 1st-Level Spells| 2nd-Level Spells| 3rd-Level Spells|
@@ -68,6 +68,11 @@ Druids serve the very essence of nature itself. They are as much of the earth as
 | 3 | 2500 | 3d6 | +0 | 13 | 2 | 2 |- | - |
 | 4 | 6000 | 3d6+1 | +1 | 12 | 3 | 2 | 1| - |
 | 5 | 12000 | 4d6+1 | +1 | 11 | 3 | 2 | 2 | 1 |   
+
+*\* FS = Forestry Skills target number.*
+
+#### Weapon and Armor Restriction:
+
 
 ---
 
