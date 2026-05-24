@@ -30,12 +30,16 @@ Traveling minstrels and wandering storytellers, they live on the road, moving to
 Can use any one-handed weapon, any ranged weapon, and a quarterstaff. They can wear leather armor and chain mail, as well use a shield.
 
 #### Inspiring Performer: 
-A Bard can inspire their allies in battle instead of casting a spell or attacking during a combat round by performing a rousing song, reciting epic poetry, or simply providing
-words of encouragement to their allies. The Bard must be able to speak, and in most cases makes use of a musical instrument to use this ability. While using this ability, all the Bard’s allies that are able to hear them receive a +1 bonus to all attack rolls and saving throws. This bonus remains
 
-in effect for as long as the Bard is performing. If
-the Bard suffers damage or is incapacitated, this
-ends the effect immediately.
+A Bard can inspire their allies in battle instead of casting a spell or attacking during a combat round by performing a rousing song, reciting epic poetry, or simply providing words of encouragement to their allies. The Bard must be able to speak, and in most cases makes use of a musical instrument to use this ability. While using this ability, all the Bard’s allies that are able to hear them receive a +1 bonus to all attack rolls and saving throws. This bonus remains in effect for as long as the Bard is performing. If the Bard suffers damage or is incapacitated, this ends the effect immediately.
+
+#### Lore: 
+
+Whenever a Bard encounters a magical item, they may examine it to discern its history. The Referee rolls 1d6 and if the roll is equal to or below the Bard’s rating in their Lore ability, the Bard can recall some information regarding the item’s history or use. This may or may not reveal specific magical properties of that item, at the Referee’s discretion. This chance of success is modified by a Bard’s Intelligence modifier.
+
+#### Spells
+
+Bard of 2nd level or higher can cast spells in a fashion identical to that of a [Magic-User](/rules/class.md#magic-user). Bards, however, do not begin play with a spellbook and must purchase a spellbook and find spell scrolls to inscribe in this book to cast spells.
 
 
 ## Thief
