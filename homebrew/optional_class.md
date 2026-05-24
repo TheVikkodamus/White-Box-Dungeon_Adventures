@@ -72,11 +72,16 @@ Cunning scoundrels who bypass traps, pick locks, and refuse to fight fair in com
 
 ### Abilities
 
-**Weapons & Armor:** Can use any weapon but may wear only leather armor.
+#### Weapons & Armor: 
 
-**Backstab:** Gain a +2 bonus to hit and roll damage twice when attacking an opponent from surprise.
+Can use any weapon but may wear only leather armor.
 
-**Thievery Skills:** 
+#### Backstab:
+
+Gain a +2 bonus to hit and roll damage twice when attacking an opponent from surprise.
+
+#### Thievery Skills:
+
 Whenever a Thief attempts an underhanded action requiring specialized training, the player rolls **1d6**. If the result is **equal to or less than** the target number listed in their **TS (Thievery Skills)** column, the action succeeds. 
 
 If the character has a Dexterity modifier, they add it directly to their TS target number for the roll.
@@ -97,8 +102,14 @@ Roll `1d6` for tasks such as:
 > 
 > * **Scenario B (With Modifiers):** If the Thief has a **+1 DEX Modifier** (from a DEX score of 15–18), they add it to their base TS of 2, raising their target number to 3 (a **3-in-6 chance**). The player rolls a `1d6` and gets a 2. Since 2 is equal to or less than their adjusted target number, the Thief successfully disarms the trap, and the adventuring party continues exploring safely.
 
-**Always Thinks They’re Hidden:** Even if the Thief fails a stealth check, they firmly believe they succeeded. The Referee should roll stealth checks privately.
+#### Always Thinks They’re Hidden: 
 
-**Saving Throw:** Thieves receive a +2 bonus to any saving throw made to reduce or avoid the effects of traps, whether magical or mundane.
+Even if the Thief fails a stealth check, they firmly believe they succeeded. The Referee should roll stealth checks privately.
 
-**XP Bonus:** A Dexterity score of 15 or higher grants a +5% bonus to all earned experience.
+#### Saving Throw: 
+
+Thieves receive a +2 bonus to any saving throw made to reduce or avoid the effects of traps, whether magical or mundane.
+
+#### XP Bonus:
+
+A Dexterity score of 15 or higher grants a +5% bonus to all earned experience.
