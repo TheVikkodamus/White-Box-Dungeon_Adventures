@@ -41,6 +41,14 @@ Whenever a Bard encounters a magical item, they may examine it to discern its hi
 
 Bard of 2nd level or higher can cast spells in a fashion identical to that of a [Magic-User](/rules/class.md#magic-user). Bards, however, do not begin play with a spellbook and must purchase a spellbook and find spell scrolls to inscribe in this book to cast spells.
 
+#### Saving Throw Bonus: 
+
+Bards receive a +2 bonus on all saving throws made to resist spells and magical effects, including those from magical items.
+
+#### Experience Point Bonus: 
+
+Bards that have a Charisma of 15 or higher receives a +5% bonus on all Experience Points earned.
+
 
 ## Thief
 
