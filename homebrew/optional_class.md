@@ -83,6 +83,7 @@ may also be used to remain both unseen and silent. Finally, when a Druid encount
 
 > [!NOTE]
 > **Animal Companion**:
+> 
 > A Druid can retain the service of a single **animal companion** whose hit dice are equal to or less than the Druid’s level. The Druid has an empathic relationship with this animal and can sense its emotional state. The animal will follow the Druid’s verbal commands to the best of its ability based on its intellect. Drawing the services of such an animal requires the Druid to meditate for 1d6 hours in a wilderness environment where the desired animal is native
 before the animal emerges to join the Druid. If the animal is slain the Druid cannot draw a new animal into its service until they gain a level of experience. These animals are always natural beasts like bears, birds, or wolves and cannot be magical creatures.
 
