@@ -14,7 +14,7 @@ Traveling minstrels and wandering storytellers, they live on the road, moving to
 
 
 | Level | XP | HD | AB | SV | LS *| 1st-Level Spells| 2nd-Level Spells| 3rd-Level Spells|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: | :---: |
 | 1 | 0 | 1d6 | +0 | 14 | 1 | - | - | - |
 | 2 | 1250 | 2d6 | +0 | 13 | 1 | 1 | - | -  |
 | 3 | 2500 | 2d6+1 | +0 | 12 | 2 | 2 |- | - |
