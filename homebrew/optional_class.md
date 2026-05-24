@@ -33,11 +33,14 @@ Can use any one-handed weapon, any ranged weapon, and a quarterstaff. They can w
 
 A Bard can inspire their allies in battle instead of casting a spell or attacking during a combat round by performing a rousing song, reciting epic poetry, or simply providing words of encouragement to their allies. The Bard must be able to speak, and in most cases makes use of a musical instrument to use this ability. While using this ability, all the Bard’s allies that are able to hear them receive a +1 bonus to all attack rolls and saving throws. This bonus remains in effect for as long as the Bard is performing. If the Bard suffers damage or is incapacitated, this ends the effect immediately.
 
+#### Sleight of Hand: 
+Bards are skilled at sleight of hand and prestidigitation, which they often make use of during performances. However, these talents can also be utilized to pick pockets and palm objects. Whenever a Bard attempts an act of sleight of hand, they have a 1-2 on 1d6 chance of success. This chance of success is modified by a Bard’s Dexterity modifier.
+
 #### Lore: 
 
 Whenever a Bard encounters a magical item, they may examine it to discern its history. The Referee rolls 1d6 and if the roll is equal to or below the Bard’s rating in their Lore ability, the Bard can recall some information regarding the item’s history or use. This may or may not reveal specific magical properties of that item, at the Referee’s discretion. This chance of success is modified by a Bard’s Intelligence modifier.
 
-#### Spells
+#### Spellscasting: 
 
 Bard of 2nd level or higher can cast spells in a fashion identical to that of a [Magic-User](/rules/class.md#magic-user). Bards, however, do not begin play with a spellbook and must purchase a spellbook and find spell scrolls to inscribe in this book to cast spells.
 
@@ -48,6 +51,7 @@ Bards receive a +2 bonus on all saving throws made to resist spells and magical 
 #### Experience Point Bonus: 
 
 Bards that have a Charisma of 15 or higher receives a +5% bonus on all Experience Points earned.
+
 
 
 ## Thief
