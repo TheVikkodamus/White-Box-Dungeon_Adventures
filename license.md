@@ -3,8 +3,6 @@
 
 Barrel Rider Games logos and brand names are trademarks of Barrel Rider Games. All rights reserved.
 
-The following elements are hereby identified as Product Identity: All trademarks, proper names (characters, deities, etc.), symbols, logos, and trade dress. These elements are not covered by the Creative Commons license and may not be used without express written permission from Barrel Rider Games.
-
 ### Content License
 Except for the material designated as Product Identity above, all text and content in this repository is released under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) License.
 
