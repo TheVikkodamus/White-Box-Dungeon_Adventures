@@ -1,6 +1,6 @@
 # Monsters and Treasure
 
-Monsters usually carry 1d6 gold pieces in treasure per Hit Die. To determine if a monster has any magic items, roll 1d20 per HD of the Monster. If any number rolled is equal to or less than the monster’s HD, then roll 
+Monsters usually carry `1d6` gold pieces in treasure per Hit Die. To determine if a monster has any magic items, roll `1d20` per HD of the Monster. If any number rolled is equal to or less than the monster’s HD, then roll 
 on Table 6-1: 
 
 ## Table 6-1: Magic Items
