@@ -1,12 +1,12 @@
 # Character Record Sheet
 
-| Field | Value | Field | Value |
+|  |  |  |  |
 | :--- | :--- | :--- | :--- |
 | **Name** | | **Player** | |
 | **Class** | | | |
 | **Level** | | **Alignment** | |
 | **XP** | | **Next** | |
-| **Game Master** | | **Game Type** | |
+| **Game Master** | | **Game Location** | |
 
 ---
 
