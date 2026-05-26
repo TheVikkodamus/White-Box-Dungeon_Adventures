@@ -12,6 +12,7 @@ last_modified: 2026-05-04
 ---
 
 ![White Box: Dungeon Adventure Book Cover](/assets/cover/cover_whitebox_Da.webp)
+
 <summary>Featuring cover art by Rick Hershey</summary>
 
 # White Box: Dungeon Adventures
