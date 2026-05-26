@@ -25,3 +25,7 @@ Magical armor and magical shields have a listed bonus that is added to the weare
 |5-6|Chainmail +2|15| Platemail +2|
 |7-10|Leather +1|16-20|Shield +1|
 |11-12|Leather +2|||
+
+## Potion 
+
+Potions can be drunk by anyone. Unless noted, their effects last one hour. Roll `1d6` to determine the item found.
