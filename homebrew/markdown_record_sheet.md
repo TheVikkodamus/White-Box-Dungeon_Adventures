@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/R0ph2jYY/D-Dlogo.png)
+![]([https://i.postimg.cc/R0ph2jYY/D-Dlogo.png](https://i.postimg.cc/7hFBHHsw/image.png))
 
 # Character Record Sheet
 
