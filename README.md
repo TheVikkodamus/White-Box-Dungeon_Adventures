@@ -11,7 +11,7 @@ status: First Draft
 last_modified: 2026-05-04
 ---
 
-![White Box: Dungeon Adventure Book Cover](/assets/cover/cover_whitebox_Da.webp)
+![White Box: Dungeon Adventure Book Cover](/assets/cover/cover_whitebox_Da.webp){width="50%"}
 <figcaption>Featuring cover art by Rick Hershey</figcaption>
 
 # White Box: Dungeon Adventures
