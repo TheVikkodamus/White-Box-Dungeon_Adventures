@@ -29,3 +29,6 @@ Magical armor and magical shields have a listed bonus that is added to the weare
 ## Potion 
 
 Potions can be drunk by anyone. Unless noted, their effects last one hour. Roll `1d6` to determine the item found.
+
+---
+© 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
