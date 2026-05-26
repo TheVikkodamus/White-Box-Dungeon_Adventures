@@ -31,7 +31,5 @@ Do you want to support the author? Here are some links to support them:
 [**Barrel Rider Game**](https://www.facebook.com/BarrelRiderGames/) Social | [**White Box: Dungeon Adventure**](https://www.drivethrurpg.com/en/product/560236/white-box-dungeon-adventures) at DriveThru-RPG | []() 
 </details>
 
-
-
 ---
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
