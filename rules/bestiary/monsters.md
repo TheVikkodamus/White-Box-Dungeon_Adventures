@@ -1,3 +1,15 @@
+---
+project: White-Box-Dungeon_Adventures
+chapter: 
+title: Monsters
+type: Rules
+tags: [OSR, Characters, WB-Dungeon, Attributes, Playable Characters]
+author: James M. Spahn
+license: CC BY-SA 4.0
+status: First Draft
+last_modified: 2026-05-25
+---
+
 # Monsters
 
 Monsters populate dungeons, which serve as lairs and hunting grounds for the foul creatures of the underworld.
