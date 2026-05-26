@@ -12,3 +12,6 @@ Monsters have a simplified stat block. Unless otherwise noted, monsters function
 
 Unless otherwise noted, non-human monsters can see in the dark. Monsters between 1-2 HD appear in groups of `2d6`. Monsters between `3-4` HD appear in groups of `1d6`. Monsters with 5+ HD are almost always
 alone.
+
+---
+© 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
