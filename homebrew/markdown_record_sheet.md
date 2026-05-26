@@ -1,5 +1,7 @@
 # Character Record Sheet
 
+![](https://i.postimg.cc/R0ph2jYY/D-Dlogo.png)
+
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
 | **Name** | | **Player** | |
