@@ -1,4 +1,3 @@
-![](https://i.postimg.cc/7hFBHHsw/image.png)
 
 # Character Record Sheet
 
