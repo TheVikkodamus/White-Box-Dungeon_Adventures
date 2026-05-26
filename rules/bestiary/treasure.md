@@ -5,7 +5,7 @@ on Table 6-1:
 
 ## Table 6-1: Magic Items
 |||||
-|---|---|----|---|
+|:---:|:---|:---:|:---|
 |1-3| Armor|12| Staff|
 |4-7| Potion|13-15| Wand|
 |8| Ring|16-18|Weapon|
