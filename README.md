@@ -22,6 +22,8 @@ last_modified: 2026-05-04
 
 **Publishing:** [Barrel Rider Games](https://www.drivethrurpg.com/en/publisher/4417/barrel-rider-games)
 
+**Interior Art:** [Luigi Castellani](https://www.artstation.com/luigicastellani)
+
 **White Box: Dungeon Adventure and the Barrel Rider Games logo are trademarks of Barrel Rider Games**. 
 
 <details open>
