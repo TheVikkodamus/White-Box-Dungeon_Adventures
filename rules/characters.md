@@ -48,6 +48,7 @@ Four heritages are available: Dwarf, Elf, Halfling, and Human.
 ### Dwarf
 
 ![dwarf_art](/assets/book_art/dwarf_image.png)
+
 Short, stout, subterranean miners known for their tenacity, combat prowess, and thick beards.
 - **Class Restrictions**: All Dwarves are Fighters.
 - **Giant-Foe**: Reduce damage from giants, ogres, and trolls by one-half.
