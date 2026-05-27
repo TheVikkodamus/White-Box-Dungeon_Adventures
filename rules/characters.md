@@ -67,6 +67,9 @@ re-roll their maximum Hit Points each day. They may only advance to 4th level as
 - **Languages**: Fluent in Common, Elvish, Gnoll, Goblin, and Orc.
 
 ### Halfling
+
+![halfing_art](/assets/book_art/halfling_image.png)
+
 A child-like in size and demeanor who prefers comfort over adventure.
 They are known for being clever, stealthy, and are often underestimated.
 - **Class Restrictions**: All Halflings are Fighters only able to reach 4th level.
