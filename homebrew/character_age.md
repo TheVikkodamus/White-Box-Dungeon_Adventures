@@ -1,3 +1,15 @@
+---
+project: White-Box-Dungeon_Adventures
+chapter: Homebrew
+title: Optional_Character_Age
+type: Rules
+tags: [OSR, Characters, WB-Dungeon, Attributes, Playable Characters, Age, Modification]
+author: 
+license: CC BY-SA 4.0
+status: First Draft
+last_modified: 2026-05-04
+
+---
 # Character Starting Age
 
 > This was taken from OSRIC 3.0 written by Stuart Marshall, Matthew Finch
