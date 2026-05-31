@@ -8,8 +8,8 @@
 
 ## Dwarf 
 When you take a Dwarf as an ancestry:
-- Raise your Constitution by 1
-- Lower your Charisma by 1
+- Raise your **Constitution** by 1
+- Lower your **Charisma** by 1
   
 **Starting Age**:
 - Cleric: `250 + 2d20` years old
