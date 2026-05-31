@@ -8,9 +8,9 @@
 
 ## Dwarf
 **Starting Age**:
-- Cleric: `250+ 2d20` years old
-- Fighter: `40+ 5d4` years old
-- Thief: `75+ 3d6` years old
+- Cleric: `250 + 2d20` years old
+- Fighter: `40 + 5d4` years old
+- Thief: `75 + 3d6` years old
 
 ### Dwarf Age Adjustments: 
 
