@@ -20,7 +20,7 @@
 |Adult (At 51)| +1 Strength, +1 Wisdom|
 |Grizzled (At 150)| -1 Strength (or exceptional Str drops to just 18), -1 Constitution, +1 Intelligence, and +1 Wisdom|
 |Elder (At 250)| -2 Strength, -2 Dexterity, -1 Constitution, +1 Wisdom|
-|Ancient (At 350): -1 Strength, -1 Dexterity, -1 Constitution, +1 Intelligene, +1 Wisdom|
+|Ancient (At 350)| -1 Strength, -1 Dexterity, -1 Constitution, +1 Intelligene, +1 Wisdom|
 
 ---
 
