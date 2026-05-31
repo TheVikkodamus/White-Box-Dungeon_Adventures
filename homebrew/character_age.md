@@ -41,4 +41,9 @@ When you take a Dwarf as an ancestry:
 
 ---
 
+## Elf 
+When you take Elf as an ancestry:
+- Raise your **Dexterity** by 1
+- Lower your **Constitution** by 1
+  
 
