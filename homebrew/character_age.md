@@ -12,16 +12,15 @@
 - Fighter: 40+`5d4`
 - Thief: 75+`3d6`
 
-### Age Adjustments: 
+### Dwarf Age Adjustments: 
 
 |Age|Score modifier|
 |:---|:---:|
 |Youth (Under 50)| -1 Wisdom, +1 Constitution|
 |Adult (At 51)| +1 Strength, +1 Wisdom|
-Grizzled (At 150): -1 Str (or exceptional Str drops to just 18), -1
-Con, +1 Int, +1 Wis
-Elder (At 250): -2 Str, -2 Dex, -1 Con, +1 Wis
-Ancient (At 350): -1 Str, -1 Dex, -1 Con, +1 Int, +1 Wis
+|Grizzled (At 150)| -1 Strength (or exceptional Str drops to just 18), -1 Constitution, +1 Intelligence, and +1 Wisdom|
+|Elder (At 250)| -2 Strength, -2 Dexterity, -1 Constitution, +1 Wisdom|
+|Ancient (At 350): -1 Strength, -1 Dexterity, -1 Constitution, +1 Intelligene, +1 Wisdom|
 
 ---
 
