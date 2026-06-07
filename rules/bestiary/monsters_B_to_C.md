@@ -17,9 +17,10 @@
   <!-- Description Row (Merged across 8 columns) -->
   <tr>
     <td colspan="8">
-      A large, predatory serpent. It can gaze once per round and still act. 
-      A single target within 60 ft. it can see must save or be turned to stone.
+      Add creature's abilities here.
     </td>
   </tr>
 </table>
+
+
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
