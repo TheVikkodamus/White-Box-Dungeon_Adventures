@@ -1,7 +1,5 @@
 # Monsters B to C
 
-# $[objectname]
-
 |Add Creatures Name|||||||
 |---|---|---|---|---|---|---|---|
 |AC|10|HD|1-6|SV|10+|XP|000|
