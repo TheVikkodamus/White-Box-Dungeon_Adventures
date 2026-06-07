@@ -48,4 +48,27 @@
   </tr>
 </table>
 
+<table>
+  <!-- Header Row (Merged across 8 columns) -->
+  <tr>
+    <th colspan="8" style="text-align: left;">Brain Lord</th>
+  </tr>
+  
+  <!-- Stats Row (8 distinct columns) -->
+  <tr>
+    <td><b>AC</b></td><td>16</td>
+    <td><b>HD</b></td><td>8</td>
+    <td><b>SV</b></td><td>11</td>
+    <td><b>XP</b></td><td>1100</td>
+  </tr>
+  
+  <!-- Description Row (Merged across 8 columns) -->
+  <tr>
+    <td colspan="8">
+      A strange octopus-headed humanoid. Can cast Charm Person and Detect Thoughts each once per round in addition to other actions.
+    </td>
+  </tr>
+</table>
+
+
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
