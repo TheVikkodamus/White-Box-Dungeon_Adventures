@@ -70,6 +70,27 @@
   </tr>
 </table>
 
+<table>
+  <!-- Header Row (Merged across 8 columns) -->
+  <tr>
+    <th colspan="8" style="text-align: left;">Bugbear</th>
+  </tr>
+  
+  <!-- Stats Row (8 distinct columns) -->
+  <tr>
+    <td><b>AC</b></td><td>14</td>
+    <td><b>HD</b></td><td>3</td>
+    <td><b>SV</b></td><td>16</td>
+    <td><b>XP</b></td><td>60</td>
+  </tr>
+  
+  <!-- Description Row (Merged across 8 columns) -->
+  <tr>
+    <td colspan="8">
+      A 7’ tall, brutal goblin. Surprises foes on 1-3 on 1d6.
+    </td>
+  </tr>
+</table>
 
 
 © 2026 **Barrel Rider Games** | [License Details](/license.md) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
