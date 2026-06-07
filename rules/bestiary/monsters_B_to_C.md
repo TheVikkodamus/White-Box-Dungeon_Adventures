@@ -1,5 +1,7 @@
 # Monsters B to C
 
+## Template
+
 <table>
   <!-- Header Row (Merged across 8 columns) -->
   <tr>
