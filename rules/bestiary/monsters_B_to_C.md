@@ -24,12 +24,12 @@
   </tr>
 </table>
 
-## Basilisk
+## B
 
 <table>
   <!-- Header Row (Merged across 8 columns) -->
   <tr>
-    <th colspan="8" style="text-align: left;">Creature Name</th>
+    <th colspan="8" style="text-align: left;">Basilisk</th>
   </tr>
   
   <!-- Stats Row (8 distinct columns) -->
