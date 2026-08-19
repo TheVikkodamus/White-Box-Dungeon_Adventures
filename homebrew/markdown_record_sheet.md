@@ -1,6 +1,17 @@
 
 # Character Record Sheet
 
+<!-- Hello and welcome to your character sheet! Don't worry, this text won't show on your finalized sheet unless you are editing it. 
+
+Here is how to fill out your sheet:
+- You don't need to enter numbers while editing code. Once you exit edit mode, simply click a number field to enter your value. 
+- Note: This is not an automated/smart sheet. If you change an Ability Score, consult your GM/Referee or the OSE SRD to enter the matching modifier manually.
+- On the tables, everything is set up for you. You only need to edit regular text fields. 
+- DO NOT edit anything that looks like number(name=...) or rollable(dice=...). Leave those exact formulas as they are!
+
+If you need to add equipment or abilities later, open the editor and make your changes. If you have any questions, hit me up via Discord!  This markdown is friendly for Goblin Notebook-->
+
+
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
 | **Name** |  | **Player** |  |
