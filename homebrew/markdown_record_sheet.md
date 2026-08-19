@@ -81,3 +81,7 @@ If you need to add equipment or abilities later, open the editor and make your c
 | | | |
 | | | |
 | **Current Weight** | | **Max Carry:** |
+
+---
+
+<!--add your class progression here-->
