@@ -3,11 +3,12 @@
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| **Name** | | **Player** | |
+| **Name** |  | **Player** |  |
 | **Class** | | | |
-| **Level** | | **Alignment** | |
-| **XP** | | **Next** | |
+| **Level** | number(name=level_score,label=Add Current Level,value=1) | **Alignment** | |
+| **XP** | number(name=current_exp,label=Add your earned xp,value=0) | **Next** | number(name=next_level_up,label=Add your next level up,value=1000) |
 | **Game Master** | | **Game Location** | |
+
 
 ---
 
