@@ -31,7 +31,7 @@
 | :--- | :---: |:---:|
 | **Hit Points** |  number(name=hp,label=Hit Points,value=5) | number(name=curr_hp,label=Current Hit Points,value=7)|
 | **Armor Class** | umber(label=Armor Class,name=ac,value=14) | number(label=Thaco,name=tc,value=5)|
-| **Movement** | *Movement** |number(name=normal_speed,label=Exploring Speed,value=120) ft| number(name=battle_speed,label=Battle Speed,value=40) ft|
+| **Movement** | number(name=normal_speed,label=Exploring Speed,value=120) ft| number(name=battle_speed,label=Battle Speed,value=40) ft|
 
 
 
