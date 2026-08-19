@@ -108,4 +108,12 @@ When you take human as an ancestry:
 - Magic-User: 24+`2d8` years old
 - Thief: 20+`1d4` years old. 
 
-  
+|Age|Score modifier|
+|:---|:---:|
+|Youth (Under 20)| -1 Wisdom, +1 Constitution|
+|Adult (At 20)| +1 Strength, +1 Wisdom|
+|Grizzled (At 40)| -1 Strength, -1 Constitution, +1 Intelligence, and +1 Wisdom|
+|Elder (At 60)| -2 Strength, -2 Dexterity, -1 Constitution, +1 Wisdom|
+|Ancient (At 90)| -1 Strength, -1 Dexterity, -1 Constitution, +1 Intelligence, +1 Wisdom|
+
+
