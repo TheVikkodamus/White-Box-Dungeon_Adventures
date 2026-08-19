@@ -15,7 +15,7 @@
 
 | Attribute | Score | Modifier | Notes / Effects |
 | :---: | :---: | :---: | :--- |
-| **STR** | | | |
+| **STR** | number(name=strength_score,label=Add/Change your Strength Score,value=10)|number(name=strength_mod,label=Add/Change your STR modifier,value=0)| |
 | **INT** | | | |
 | **WIS** | | | |
 | **DEX** | | | |
