@@ -33,7 +33,7 @@ Your character's raw ability scores determine both their base chance of success 
 | :---: | :---: | :---: | :---: | :---: |
 | **15–18** | 2-in-6 | +1 | **3-in-6** | Roll 1, 2, or 3 |
 | **7–14** | 1-in-6 | +0 | **1-in-6** | Roll 1 |
-| **3–6** | 0-in-6 | -1 * | **1-in-6** | Roll 1 |
+| **3–6** | 1-in-6 | -1 * | **1-in-6** | Roll 1 |
 
 > [!NOTE]
 > Even with a poor attribute score or a negative modifier, a character always maintains a baseline **1-in-6 chance** of success. This ensures no heroic feat is truly impossible unless the Referee explicitly rules otherwise due to narrative circumstances.
