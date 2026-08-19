@@ -3,7 +3,7 @@ project: White-Box-Dungeon_Adventures
 chapter: Homebrew
 title: Cover
 type: Rules
-tags: [OSR, Characters, WB-Dungeon, Cover, Playable Characters, AC, DAAC]
+tags: [OSR, Armor Class Bonus, WB-Dungeon, Cover, Playable Characters, AC, DAAC]
 author: 
 license: CC BY-SA 4.0
 status: First Draft
