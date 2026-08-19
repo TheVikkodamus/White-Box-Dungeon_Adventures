@@ -16,12 +16,12 @@
 | Attribute | Score | Modifier | Notes / Effects |
 | :---: | :---: | :---: | :--- |
 | **STR** | number(name=strength_score,label=Add/Change your Strength Score,value=10)|number(name=strength_mod,label=Add/Change your STR modifier,value=0)| |
-| **INT** | | | |
-| **WIS** | | | |
-| **DEX** | | | |
-| **CON** | | | |
-| **CHA** | | | |
-| **Saving Throws** | | | |
+| **INT** | number(name=intelligence_score,label=Add/Change your Intelligence Score,value=10)| number(name=intelligence_mod,label=Add/Change your INT modifier,value=0)| |
+| **WIS** | number(name=wisdom_score,label=Add/Change your Wisdom Score,value=10)| number(name=wisdom_mod,label=Add/Change your WIS modifier,value=0)| |
+| **DEX** | number(name=dexterity_score,label=Add/Change your Dexterity Score,value=10)| number(name=dexterity_mod,label=Add/Change your DEX modifier,value=0)| |
+| **CON** | number(name=constitution_score,label=Add/Change your Constitution Score,value=10)| number(name=constitution_mod,label=Add/Change your CON modifier,value=0)| |
+| **CHA** | number(name=charisma_score,label=Add/Change your Charisma Score,value=10)| number(name=charisma_mod,label=Add/Change your CHA modifier,value=0)| |
+| **Saving Throws** | number(name=saving_throws,label=Add/Change your Saving Throw Score, value=10 | | |
 
 ---
 
