@@ -10,6 +10,7 @@ status: First Draft
 last_modified: 2026-08-19
 
 ---
+
 # Character Starting Age
 
 > This was taken from OSRIC 3.0 written by Stuart Marshall, Matthew Finch
