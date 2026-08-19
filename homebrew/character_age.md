@@ -24,7 +24,7 @@ When you take a Dwarf as an ancestry:
 - Lower your **Charisma** by 1
   
 **Starting Age**:
-- Cleric: `250 + 2d20` years old
+
 - Fighter: `40 + 5d4` years old
 - Thief: `75 + 3d6` years old
 
@@ -40,3 +40,25 @@ When you take a Dwarf as an ancestry:
 
 
 ---  
+
+## Elf 
+When you take an Elf as an ancestry:
+- **Raise** your Dexterity by 1
+- **Lower** your Constitution by 1
+
+  **Starting Age**:
+  - Fighter: `130+5d6` years old
+  - Magic-user: `150+5d6` years old
+ 
+
+### Elf Age Adjustments: 
+
+|Age|Score modifier|
+|:---|:---:|
+|Youth (Under 175)| -1 Wisdom, +1 Constitution|
+|Adult (At 175)| +1 Strength, +1 Wisdom|
+|Grizzled (At 550)| -1 Strength, -1 Constitution, +1 Intelligence, and +1 Wisdom|
+|Elder (At 875)| -2 Strength, -2 Dexterity, -1 Constitution, +1 Wisdom|
+
+
+|Ancient (At 1200)| -1 Strength, -1 Dexterity, -1 Constitution, +1 Intelligene, +1 Wisdom|
