@@ -51,8 +51,8 @@ When you take an Elf as an ancestry:
 - **Lower** your Constitution by 1
 
 **Height and Weight**:
-• Height: 4ft 6 inches plus `3d4` inches
-• Weight: 70 pounds plus `5d10` pounds
+- Height: 4ft 6 inches plus `3d4` inches
+- Weight: 70 pounds plus `5d10` pounds
 
 **Starting Age**:
 - Fighter: `130+5d6` years old
@@ -76,13 +76,13 @@ When you take halfling as an ancestry:
 - **Raise** your Dexterity by 1
 - **Lower** your Strength by 1
 
-  **Height and Weight:**
+**Height and Weight:**
 - Height: 2ft 10 inches plus `3d4` inches
 - Weight: 45 pounds plus `4d10` pounds
 
 **Starting Age**:
-- Fighter: `20+3d4`
-- Thief: `40+2d4`
+- Fighter: `20+3d4` years old
+- Thief: `40+2d4` years old
 
 |Age|Score modifier|
 |:---|:---:|
@@ -93,3 +93,19 @@ When you take halfling as an ancestry:
 |Ancient (At 144)| -1 Strength, -1 Dexterity, -1 Constitution, +1 Intelligence, +1 Wisdom|
 
 ---
+
+## Human
+When you take human as an ancestry:
+- Your ability scores do not **change**.
+
+**Height and Weight**:
+- Height: 5ft 4 inches + `3d4` inches
+- Weight: 140 pounds + `6d10` pounds
+
+**Starting Age**:
+- Cleric: 20+`1d4` years old
+- Fighter: 15+`1d4` years old
+- Magic-User: 24+`2d8` years old
+- Thief: 20+`1d4` years old. 
+
+  
